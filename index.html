@@ -43,8 +43,15 @@
     }
 
     .particles { position: fixed; inset: 0; pointer-events: none; z-index: -1; }
-    .particle { position: absolute; border-radius: 50%; opacity: 0.08; animation: float 18s linear infinite; background: linear-gradient(45deg, rgba(255,255,255,0.06), rgba(0,0,0,0.04)); }
-    @keyframes float { 0% { transform: translateY(0) rotate(0deg); } 100% { transform: translateY(-110vh) rotate(720deg); } }
+    .particle {
+      position: absolute; border-radius: 50%;
+      opacity: 0.08; animation: float 18s linear infinite;
+      background: linear-gradient(45deg, rgba(255,255,255,0.06), rgba(0,0,0,0.04));
+    }
+    @keyframes float {
+      0% { transform: translateY(0) rotate(0deg); }
+      100% { transform: translateY(-110vh) rotate(720deg); }
+    }
 
     header { text-align: center; margin: 2rem 0 2.5rem; }
     h1 {
@@ -164,7 +171,7 @@
   <div class="particles" id="particles"></div>
 
   <header>
-    <h1>DAILY QUOTES</h1>
+    <h1>✨ DAILY QUOTES</h1>
   </header>
 
   <div id="quotes-grid">
@@ -213,8 +220,10 @@
           container.innerHTML = '<div class="error">No quotes found — come back later ✨</div>';
           return;
         }
-        const sorted = [...data].sort((a, b) => new Date(a.date) - new Date(b.date));
+
+        const sorted = [...data].sort((a,b) => new Date(a.date) - new Date(b.date));
         container.innerHTML = '';
+
         sorted.forEach((q, i) => {
           const card = document.createElement('article');
           card.className = 'quote-card';
@@ -230,6 +239,7 @@
               <div class="quote-date">${escapeHtml(formatted)}</div>
             </div>
           `;
+
           card.addEventListener('mousemove', e => {
             const r = card.getBoundingClientRect();
             const x = (e.clientX - r.left) / r.width - 0.5;
@@ -238,12 +248,18 @@
             const rotateX = -y * 6;
             card.style.transform = `perspective(900px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale(1.015)`;
           });
-          card.addEventListener('mouseleave', () => { card.style.transform = ''; });
+          card.addEventListener('mouseleave', () => {
+            card.style.transform = '';
+          });
+
           container.appendChild(card);
         });
       } catch (err) {
         console.error(err);
-        container.innerHTML = `<div class="error">Failed to load quotes. <button onclick="location.reload()">Try again</button></div>`;
+        container.innerHTML = `
+          <div class="error">
+            Failed to load quotes. <button onclick="location.reload()">Try again</button>
+          </div>`;
       }
     }
 
