@@ -1,5 +1,3 @@
-
-Daily Quotes
-![DailyQuoteStatus](https://github.comDavid129B/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)
+DAILY QUOTES
 
 View the live site: https://david129b.github.io/Daily-Quotes/
