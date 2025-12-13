@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-13",
-    "quote": "No man is happy unless he believes he is.",
-    "author": "Publilius Syrus"
-  },
-  {
     "date": "2025-11-14",
     "quote": "Most people fail in life not because they aim too high and miss, but because they aim too low and hit.",
     "author": "Les Brown"
@@ -148,5 +143,10 @@
     "date": "2025-12-12",
     "quote": "The way out is in.",
     "author": "Thich Nhat Hanh"
+  },
+  {
+    "date": "2025-12-13",
+    "quote": "Change is hardest at the beginning, messiest in the middle and best at the end.",
+    "author": "Robin Sharma"
   }
 ]
