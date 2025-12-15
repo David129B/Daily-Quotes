@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-15",
-    "quote": "A mountain never yields to the wind no matter how strong it is.",
-    "author": "Zen Proverb"
-  },
-  {
     "date": "2025-11-16",
     "quote": "It doesn't matter what you do, only how well you do it.",
     "author": "Dan Millman"
@@ -148,5 +143,10 @@
     "date": "2025-12-14",
     "quote": "Pleasure in the job puts perfection in the work.",
     "author": "Aristotle"
+  },
+  {
+    "date": "2025-12-15",
+    "quote": "He who laughs at himself never runs out of things to laugh at.",
+    "author": "Epictetus"
   }
 ]
