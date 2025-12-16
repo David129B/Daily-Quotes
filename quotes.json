@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-16",
-    "quote": "It doesn't matter what you do, only how well you do it.",
-    "author": "Dan Millman"
-  },
-  {
     "date": "2025-11-17",
     "quote": "Decide upon your major definite purpose in life and then organize all your activities around it.",
     "author": "Brian Tracy"
@@ -148,5 +143,10 @@
     "date": "2025-12-15",
     "quote": "He who laughs at himself never runs out of things to laugh at.",
     "author": "Epictetus"
+  },
+  {
+    "date": "2025-12-16",
+    "quote": "The highest form of ignorance is when you reject something you don't know anything about.",
+    "author": "Wayne Dyer"
   }
 ]
