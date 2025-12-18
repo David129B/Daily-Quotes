@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-18",
-    "quote": "New beginnings are disguised as painful endings.",
-    "author": "Lao Tzu"
-  },
-  {
     "date": "2025-11-19",
     "quote": "Motivation is what gets you started. Habit is what keeps you going.",
     "author": "Jim Rohn"
@@ -148,5 +143,10 @@
     "date": "2025-12-17",
     "quote": "Exceptional thinkers ignore their critics and go about their business making history.",
     "author": "John Eliot"
+  },
+  {
+    "date": "2025-12-18",
+    "quote": "If you think adventure is dangerous, try routine; it is lethal.",
+    "author": "Paulo Coelho"
   }
 ]
