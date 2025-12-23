@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-23",
-    "quote": "Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.",
-    "author": "W. Clement Stone"
-  },
-  {
     "date": "2025-11-24",
     "quote": "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.",
     "author": "Earl Nightingale"
@@ -148,5 +143,10 @@
     "date": "2025-12-22",
     "quote": "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.",
     "author": "Alan Watts"
+  },
+  {
+    "date": "2025-12-23",
+    "quote": "There can be no deep disappointment where there is not deep love.",
+    "author": "Martin Luther King, Jr."
   }
 ]
