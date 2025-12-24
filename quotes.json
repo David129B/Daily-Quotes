@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-24",
-    "quote": "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.",
-    "author": "Earl Nightingale"
-  },
-  {
     "date": "2025-11-25",
     "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
     "author": "Unknown"
@@ -148,5 +143,10 @@
     "date": "2025-12-23",
     "quote": "There can be no deep disappointment where there is not deep love.",
     "author": "Martin Luther King, Jr."
+  },
+  {
+    "date": "2025-12-24",
+    "quote": "It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.",
+    "author": "John Lennon"
   }
 ]
