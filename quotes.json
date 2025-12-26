@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-26",
-    "quote": "Fears are nothing more than a state of mind.",
-    "author": "Napoleon Hill"
-  },
-  {
     "date": "2025-11-27",
     "quote": "The smallest act of kindness is worth more than the greatest intention.",
     "author": "Kahlil Gibran"
@@ -148,5 +143,10 @@
     "date": "2025-12-25",
     "quote": "To be angry is to revenge the faults of others on ourselves.",
     "author": "Alexander Pope"
+  },
+  {
+    "date": "2025-12-26",
+    "quote": "A tiny change today brings a dramatically different tomorrow.",
+    "author": "Richard Bach"
   }
 ]
