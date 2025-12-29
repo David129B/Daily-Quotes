@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-11-29",
-    "quote": "When you judge another, you do not define them, you define yourself",
-    "author": "Wayne Dyer"
-  },
-  {
     "date": "2025-11-30",
     "quote": "You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.",
     "author": "Robin Williams"
@@ -148,5 +143,10 @@
     "date": "2025-12-28",
     "quote": "Life would be tragic if it weren't funny.",
     "author": "Stephen Hawking"
+  },
+  {
+    "date": "2025-12-29",
+    "quote": "The worst part of success is trying to find someone who is happy for you.",
+    "author": "Bette Midler"
   }
 ]
