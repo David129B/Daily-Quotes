@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-01",
-    "quote": "A good stance and posture reflect a proper state of mind.",
-    "author": "Morihei Ueshiba"
-  },
-  {
     "date": "2025-12-02",
     "quote": "Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.",
     "author": "Gilbert Chesterton"
@@ -148,5 +143,10 @@
     "date": "2025-12-30",
     "quote": "Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.",
     "author": "Steve Harvey"
+  },
+  {
+    "date": "2025-12-31",
+    "quote": "Whoever is happy will make others happy too.",
+    "author": "Anne Frank"
   }
 ]
