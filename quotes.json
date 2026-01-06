@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-07",
-    "quote": "Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.",
-    "author": "Paramahansa Yogananda"
-  },
-  {
     "date": "2025-12-08",
     "quote": "To arrive at the simplest truth requires years of contemplation.",
     "author": "Isaac Newton"
@@ -148,5 +143,10 @@
     "date": "2026-01-05",
     "quote": "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.",
     "author": "Thich Nhat Hanh"
+  },
+  {
+    "date": "2026-01-06",
+    "quote": "The first rule of business; treat others like they want to treat you.",
+    "author": "Charles Dickens"
   }
 ]
