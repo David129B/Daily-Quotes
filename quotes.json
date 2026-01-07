@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-08",
-    "quote": "To arrive at the simplest truth requires years of contemplation.",
-    "author": "Isaac Newton"
-  },
-  {
     "date": "2025-12-09",
     "quote": "Success is nothing more than a few simple disciplines practiced every day.",
     "author": "Jim Rohn"
@@ -148,5 +143,10 @@
     "date": "2026-01-06",
     "quote": "The first rule of business; treat others like they want to treat you.",
     "author": "Charles Dickens"
+  },
+  {
+    "date": "2026-01-07",
+    "quote": "There are no mistakes in life, only lessons.",
+    "author": "Robin Sharma"
   }
 ]
