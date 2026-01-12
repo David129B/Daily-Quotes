@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-13",
-    "quote": "Change is hardest at the beginning, messiest in the middle and best at the end.",
-    "author": "Robin Sharma"
-  },
-  {
     "date": "2025-12-14",
     "quote": "Pleasure in the job puts perfection in the work.",
     "author": "Aristotle"
@@ -148,5 +143,10 @@
     "date": "2026-01-11",
     "quote": "Not everything that weighs you down is yours to carry.",
     "author": "Unknown"
+  },
+  {
+    "date": "2026-01-12",
+    "quote": "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.",
+    "author": "Og Mandino"
   }
 ]
