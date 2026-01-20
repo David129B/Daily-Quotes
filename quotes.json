@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-21",
-    "quote": "Allow motion to equal emotion.",
-    "author": "Elbert Hubbard"
-  },
-  {
     "date": "2025-12-22",
     "quote": "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.",
     "author": "Alan Watts"
@@ -148,5 +143,10 @@
     "date": "2026-01-19",
     "quote": "To accomplish big things, I am convinced you must first dream big dreams.",
     "author": "Conrad Hilton"
+  },
+  {
+    "date": "2026-01-20",
+    "quote": "For your life to be great, your faith must be bigger than your fear.",
+    "author": "Robin Sharma"
   }
 ]
