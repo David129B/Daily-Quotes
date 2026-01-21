@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-22",
-    "quote": "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.",
-    "author": "Alan Watts"
-  },
-  {
     "date": "2025-12-23",
     "quote": "There can be no deep disappointment where there is not deep love.",
     "author": "Martin Luther King, Jr."
@@ -148,5 +143,10 @@
     "date": "2026-01-20",
     "quote": "For your life to be great, your faith must be bigger than your fear.",
     "author": "Robin Sharma"
+  },
+  {
+    "date": "2026-01-21",
+    "quote": "The future is no more uncertain than the present.",
+    "author": "Walt Whitman"
   }
 ]
