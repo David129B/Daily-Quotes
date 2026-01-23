@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-24",
-    "quote": "It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.",
-    "author": "John Lennon"
-  },
-  {
     "date": "2025-12-25",
     "quote": "To be angry is to revenge the faults of others on ourselves.",
     "author": "Alexander Pope"
@@ -148,5 +143,10 @@
     "date": "2026-01-22",
     "quote": "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.",
     "author": "Nicolas Chamfort"
+  },
+  {
+    "date": "2026-01-23",
+    "quote": "It is often safer to be in chains than to be free.",
+    "author": "Franz Kafka"
   }
 ]
