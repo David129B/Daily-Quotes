@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-25",
-    "quote": "To be angry is to revenge the faults of others on ourselves.",
-    "author": "Alexander Pope"
-  },
-  {
     "date": "2025-12-26",
     "quote": "A tiny change today brings a dramatically different tomorrow.",
     "author": "Richard Bach"
@@ -148,5 +143,10 @@
     "date": "2026-01-23",
     "quote": "It is often safer to be in chains than to be free.",
     "author": "Franz Kafka"
+  },
+  {
+    "date": "2026-01-24",
+    "quote": "The only real security that a man can have in this world is a reserve of knowledge, experience and ability.",
+    "author": "Henry Ford"
   }
 ]
