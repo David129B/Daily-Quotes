@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-26",
-    "quote": "A tiny change today brings a dramatically different tomorrow.",
-    "author": "Richard Bach"
-  },
-  {
     "date": "2025-12-27",
     "quote": "It all depends on what you choose to believe.",
     "author": "Spencer Johnson"
@@ -148,5 +143,10 @@
     "date": "2026-01-24",
     "quote": "The only real security that a man can have in this world is a reserve of knowledge, experience and ability.",
     "author": "Henry Ford"
+  },
+  {
+    "date": "2026-01-25",
+    "quote": "I would rather be hated for who I am than loved for who I'm not.",
+    "author": "Wayne Dyer"
   }
 ]
