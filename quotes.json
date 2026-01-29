@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-30",
-    "quote": "Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.",
-    "author": "Steve Harvey"
-  },
-  {
     "date": "2025-12-31",
     "quote": "Whoever is happy will make others happy too.",
     "author": "Anne Frank"
@@ -148,5 +143,10 @@
     "date": "2026-01-28",
     "quote": "He is not a lover who does not love forever.",
     "author": "Euripides"
+  },
+  {
+    "date": "2026-01-29",
+    "quote": "Throw me to the wolves and I will return leading the pack.",
+    "author": "Seneca"
   }
 ]
