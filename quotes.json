@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-12-31",
-    "quote": "Whoever is happy will make others happy too.",
-    "author": "Anne Frank"
-  },
-  {
     "date": "2026-01-01",
     "quote": "The more you give, the more comes back to you.",
     "author": "Napoleon Hill"
@@ -148,5 +143,10 @@
     "date": "2026-01-29",
     "quote": "Throw me to the wolves and I will return leading the pack.",
     "author": "Seneca"
+  },
+  {
+    "date": "2026-01-30",
+    "quote": "Keep your face to the sunshine and you cannot see the shadows.",
+    "author": "Helen Keller"
   }
 ]
