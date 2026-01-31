@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-01",
-    "quote": "The more you give, the more comes back to you.",
-    "author": "Napoleon Hill"
-  },
-  {
     "date": "2026-01-02",
     "quote": "Inspiration exists, but it has to find you working.",
     "author": "Pablo Picasso"
@@ -148,5 +143,10 @@
     "date": "2026-01-30",
     "quote": "Keep your face to the sunshine and you cannot see the shadows.",
     "author": "Helen Keller"
+  },
+  {
+    "date": "2026-01-31",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
