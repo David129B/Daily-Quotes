@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-04",
-    "quote": "He will win who knows when to fight and when not to fight.",
-    "author": "Sun Tzu"
-  },
-  {
     "date": "2026-01-05",
     "quote": "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.",
     "author": "Thich Nhat Hanh"
@@ -148,5 +143,10 @@
     "date": "2026-02-02",
     "quote": "Get busy living, or get busy dying.",
     "author": "Stephen King"
+  },
+  {
+    "date": "2026-02-03",
+    "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
+    "author": "Lao Tzu"
   }
 ]
