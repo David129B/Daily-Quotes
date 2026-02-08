@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-09",
-    "quote": "When the root is strong, the fruit is sweet.",
-    "author": "Bob Marley"
-  },
-  {
     "date": "2026-01-10",
     "quote": "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.",
     "author": "Brian Tracy"
@@ -148,5 +143,10 @@
     "date": "2026-02-07",
     "quote": "Tragedy is a tool for the living to gain wisdom, not a guide by which to live.",
     "author": "Robert F. Kennedy"
+  },
+  {
+    "date": "2026-02-08",
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas Edison"
   }
 ]
