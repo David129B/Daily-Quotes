@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-12",
-    "quote": "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.",
-    "author": "Og Mandino"
-  },
-  {
     "date": "2026-01-13",
     "quote": "Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.",
     "author": "W. Clement Stone"
@@ -148,5 +143,10 @@
     "date": "2026-02-10",
     "quote": "Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.",
     "author": "Peter Drucker"
+  },
+  {
+    "date": "2026-02-11",
+    "quote": "Invisible things are the only realities.",
+    "author": "Edgar Allan Poe"
   }
 ]
