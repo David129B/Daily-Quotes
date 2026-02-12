@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-13",
-    "quote": "Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.",
-    "author": "W. Clement Stone"
-  },
-  {
     "date": "2026-01-14",
     "quote": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.",
     "author": "Zig Ziglar"
@@ -148,5 +143,10 @@
     "date": "2026-02-11",
     "quote": "Invisible things are the only realities.",
     "author": "Edgar Allan Poe"
+  },
+  {
+    "date": "2026-02-12",
+    "quote": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles Swindoll"
   }
 ]
