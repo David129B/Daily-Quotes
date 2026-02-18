@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-19",
-    "quote": "To accomplish big things, I am convinced you must first dream big dreams.",
-    "author": "Conrad Hilton"
-  },
-  {
     "date": "2026-01-20",
     "quote": "For your life to be great, your faith must be bigger than your fear.",
     "author": "Robin Sharma"
@@ -148,5 +143,10 @@
     "date": "2026-02-17",
     "quote": "If you think you can do a thing or think you can't do a thing, you're right.",
     "author": "Henry Ford"
+  },
+  {
+    "date": "2026-02-18",
+    "quote": "Success is built sequentially. It's one thing at a time.",
+    "author": "Gary Keller"
   }
 ]
