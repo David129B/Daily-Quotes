@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-20",
-    "quote": "For your life to be great, your faith must be bigger than your fear.",
-    "author": "Robin Sharma"
-  },
-  {
     "date": "2026-01-21",
     "quote": "The future is no more uncertain than the present.",
     "author": "Walt Whitman"
@@ -148,5 +143,10 @@
     "date": "2026-02-18",
     "quote": "Success is built sequentially. It's one thing at a time.",
     "author": "Gary Keller"
+  },
+  {
+    "date": "2026-02-19",
+    "quote": "As you think, you travel, and as you love, you attract.",
+    "author": "James Allen"
   }
 ]
