@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-21",
-    "quote": "The future is no more uncertain than the present.",
-    "author": "Walt Whitman"
-  },
-  {
     "date": "2026-01-22",
     "quote": "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.",
     "author": "Nicolas Chamfort"
@@ -148,5 +143,10 @@
     "date": "2026-02-19",
     "quote": "As you think, you travel, and as you love, you attract.",
     "author": "James Allen"
+  },
+  {
+    "date": "2026-02-20",
+    "quote": "Forgive yourself for your faults and your mistakes and move on.",
+    "author": "Les Brown"
   }
 ]
