@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-22",
-    "quote": "Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.",
-    "author": "Nicolas Chamfort"
-  },
-  {
     "date": "2026-01-23",
     "quote": "It is often safer to be in chains than to be free.",
     "author": "Franz Kafka"
@@ -148,5 +143,10 @@
     "date": "2026-02-20",
     "quote": "Forgive yourself for your faults and your mistakes and move on.",
     "author": "Les Brown"
+  },
+  {
+    "date": "2026-02-21",
+    "quote": "I love fools' experiments. I am always making them.",
+    "author": "Charles Darwin"
   }
 ]
