@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-25",
-    "quote": "I would rather be hated for who I am than loved for who I'm not.",
-    "author": "Wayne Dyer"
-  },
-  {
     "date": "2026-01-26",
     "quote": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
     "author": "Socrates"
@@ -148,5 +143,10 @@
     "date": "2026-02-23",
     "quote": "Re-examine all that you have been told... dismiss that which insults your soul.",
     "author": "Walt Whitman"
+  },
+  {
+    "date": "2026-02-24",
+    "quote": "Live calmly. The time will come when the flowers bloom by themselves.",
+    "author": "Zen Proverb"
   }
 ]
