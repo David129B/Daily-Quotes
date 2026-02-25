@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-26",
-    "quote": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
-    "author": "Socrates"
-  },
-  {
     "date": "2026-01-27",
     "quote": "Love is not about possession. Love is about appreciation.",
     "author": "Osho"
@@ -148,5 +143,10 @@
     "date": "2026-02-24",
     "quote": "Live calmly. The time will come when the flowers bloom by themselves.",
     "author": "Zen Proverb"
+  },
+  {
+    "date": "2026-02-25",
+    "quote": "First learn the meaning of what you say, and then speak.",
+    "author": "Epictetus"
   }
 ]
