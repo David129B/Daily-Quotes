@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-27",
-    "quote": "Love is not about possession. Love is about appreciation.",
-    "author": "Osho"
-  },
-  {
     "date": "2026-01-28",
     "quote": "He is not a lover who does not love forever.",
     "author": "Euripides"
@@ -148,5 +143,10 @@
     "date": "2026-02-25",
     "quote": "First learn the meaning of what you say, and then speak.",
     "author": "Epictetus"
+  },
+  {
+    "date": "2026-02-26",
+    "quote": "Believe and you're halfway there.",
+    "author": "Harry S. Truman"
   }
 ]
