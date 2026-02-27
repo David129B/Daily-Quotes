@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-28",
-    "quote": "He is not a lover who does not love forever.",
-    "author": "Euripides"
-  },
-  {
     "date": "2026-01-29",
     "quote": "Throw me to the wolves and I will return leading the pack.",
     "author": "Seneca"
@@ -148,5 +143,10 @@
     "date": "2026-02-26",
     "quote": "Believe and you're halfway there.",
     "author": "Harry S. Truman"
+  },
+  {
+    "date": "2026-02-27",
+    "quote": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
+    "author": "Sigmund Freud"
   }
 ]
