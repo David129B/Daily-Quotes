@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-01-29",
-    "quote": "Throw me to the wolves and I will return leading the pack.",
-    "author": "Seneca"
-  },
-  {
     "date": "2026-01-30",
     "quote": "Keep your face to the sunshine and you cannot see the shadows.",
     "author": "Helen Keller"
@@ -148,5 +143,10 @@
     "date": "2026-02-27",
     "quote": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
     "author": "Sigmund Freud"
+  },
+  {
+    "date": "2026-02-28",
+    "quote": "It is better to disappoint people with the truth than to appease them with a lie.",
+    "author": "Simon Sinek"
   }
 ]
