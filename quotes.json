@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-01",
-    "quote": "If the only prayer you ever say in your entire life is thank you, it will be enough.",
-    "author": "Meister Eckhart"
-  },
-  {
     "date": "2026-02-02",
     "quote": "Get busy living, or get busy dying.",
     "author": "Stephen King"
@@ -148,5 +143,10 @@
     "date": "2026-03-02",
     "quote": "Death smiles at us all. All we can do is smile back.",
     "author": "Marcus Aurelius"
+  },
+  {
+    "date": "2026-03-03",
+    "quote": "The first rule of business; treat others like they want to treat you.",
+    "author": "Charles Dickens"
   }
 ]
