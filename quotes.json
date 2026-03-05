@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-03",
-    "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
-    "author": "Lao Tzu"
-  },
-  {
     "date": "2026-02-04",
     "quote": "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.",
     "author": "Seneca"
@@ -148,5 +143,10 @@
     "date": "2026-03-04",
     "quote": "Never give way to laziness.",
     "author": "Bhagavad Gita"
+  },
+  {
+    "date": "2026-03-05",
+    "quote": "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.",
+    "author": "Denis Waitley"
   }
 ]
