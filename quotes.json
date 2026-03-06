@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-04",
-    "quote": "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.",
-    "author": "Seneca"
-  },
-  {
     "date": "2026-02-05",
     "quote": "Those who dream by day are cognizant of many things which escape those who dream only by night.",
     "author": "Vincent van Gogh"
@@ -148,5 +143,10 @@
     "date": "2026-03-05",
     "quote": "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.",
     "author": "Denis Waitley"
+  },
+  {
+    "date": "2026-03-06",
+    "quote": "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.",
+    "author": "Maya Angelou"
   }
 ]
