@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-06",
-    "quote": "It is dangerous to be right in matters on which the established authorities are wrong.",
-    "author": "Voltaire"
-  },
-  {
     "date": "2026-02-07",
     "quote": "Tragedy is a tool for the living to gain wisdom, not a guide by which to live.",
     "author": "Robert F. Kennedy"
@@ -148,5 +143,10 @@
     "date": "2026-03-07",
     "quote": "We have no more right to consume happiness without producing it than to consume wealth without producing it.",
     "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2026-03-08",
+    "quote": "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.",
+    "author": "Herbert Hoover"
   }
 ]
