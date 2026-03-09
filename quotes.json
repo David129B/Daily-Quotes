@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-07",
-    "quote": "Tragedy is a tool for the living to gain wisdom, not a guide by which to live.",
-    "author": "Robert F. Kennedy"
-  },
-  {
     "date": "2026-02-08",
     "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-03-08",
     "quote": "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.",
     "author": "Herbert Hoover"
+  },
+  {
+    "date": "2026-03-09",
+    "quote": "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.",
+    "author": "Ming-Dao Deng"
   }
 ]
