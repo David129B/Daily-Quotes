@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-08",
-    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-02-09",
     "quote": "Failure is the key to success; each mistake teaches us something.",
     "author": "Morihei Ueshiba"
@@ -148,5 +143,10 @@
     "date": "2026-03-09",
     "quote": "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.",
     "author": "Ming-Dao Deng"
+  },
+  {
+    "date": "2026-03-10",
+    "quote": "You can't go forward and backwards at the same time.",
+    "author": "Steve Harvey"
   }
 ]
