@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-09",
-    "quote": "Failure is the key to success; each mistake teaches us something.",
-    "author": "Morihei Ueshiba"
-  },
-  {
     "date": "2026-02-10",
     "quote": "Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.",
     "author": "Peter Drucker"
@@ -148,5 +143,10 @@
     "date": "2026-03-10",
     "quote": "You can't go forward and backwards at the same time.",
     "author": "Steve Harvey"
+  },
+  {
+    "date": "2026-03-11",
+    "quote": "See what you're doing wrong, laugh at it, change and do better.",
+    "author": "Spencer Johnson"
   }
 ]
