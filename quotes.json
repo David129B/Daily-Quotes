@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-11",
-    "quote": "Invisible things are the only realities.",
-    "author": "Edgar Allan Poe"
-  },
-  {
     "date": "2026-02-12",
     "quote": "Life is 10% what happens to you and 90% how you react to it.",
     "author": "Charles Swindoll"
@@ -148,5 +143,10 @@
     "date": "2026-03-12",
     "quote": "Nature loves to hide.",
     "author": "Heraclitus"
+  },
+  {
+    "date": "2026-03-13",
+    "quote": "Why do you stay in prison when the door is so wide open?",
+    "author": "Rumi"
   }
 ]
