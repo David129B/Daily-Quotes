@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-12",
-    "quote": "Life is 10% what happens to you and 90% how you react to it.",
-    "author": "Charles Swindoll"
-  },
-  {
     "date": "2026-02-13",
     "quote": "Life is a journey, not a destination.",
     "author": "Dan Millman"
@@ -148,5 +143,10 @@
     "date": "2026-03-13",
     "quote": "Why do you stay in prison when the door is so wide open?",
     "author": "Rumi"
+  },
+  {
+    "date": "2026-03-14",
+    "quote": "You can have it all. You just can't have it all at once.",
+    "author": "Oprah Winfrey"
   }
 ]
