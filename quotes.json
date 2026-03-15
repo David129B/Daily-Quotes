@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-13",
-    "quote": "Life is a journey, not a destination.",
-    "author": "Dan Millman"
-  },
-  {
     "date": "2026-02-14",
     "quote": "The health of nations is more important than the wealth of nations.",
     "author": "Will Rogers"
@@ -148,5 +143,10 @@
     "date": "2026-03-14",
     "quote": "You can have it all. You just can't have it all at once.",
     "author": "Oprah Winfrey"
+  },
+  {
+    "date": "2026-03-15",
+    "quote": "Any idea, plan, or purpose may be placed in the mind through repetition of thought.",
+    "author": "Napoleon Hill"
   }
 ]
