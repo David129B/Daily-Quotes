@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-15",
-    "quote": "The power of human thought grows exponentially with the number of minds that share that thought.",
-    "author": "Dan Brown"
-  },
-  {
     "date": "2026-02-16",
     "quote": "A mountain never yields to the wind no matter how strong it is.",
     "author": "Zen Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-03-16",
     "quote": "We are most nearly ourselves when we achieve the seriousness of the child at play.",
     "author": "Heraclitus"
+  },
+  {
+    "date": "2026-03-17",
+    "quote": "Better to have, and not need, than to need, and not have.",
+    "author": "Franz Kafka"
   }
 ]
