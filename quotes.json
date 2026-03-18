@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-16",
-    "quote": "A mountain never yields to the wind no matter how strong it is.",
-    "author": "Zen Proverb"
-  },
-  {
     "date": "2026-02-17",
     "quote": "If you think you can do a thing or think you can't do a thing, you're right.",
     "author": "Henry Ford"
@@ -148,5 +143,10 @@
     "date": "2026-03-17",
     "quote": "Better to have, and not need, than to need, and not have.",
     "author": "Franz Kafka"
+  },
+  {
+    "date": "2026-03-18",
+    "quote": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien"
   }
 ]
