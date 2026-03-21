@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-19",
-    "quote": "As you think, you travel, and as you love, you attract.",
-    "author": "James Allen"
-  },
-  {
     "date": "2026-02-20",
     "quote": "Forgive yourself for your faults and your mistakes and move on.",
     "author": "Les Brown"
@@ -148,5 +143,10 @@
     "date": "2026-03-20",
     "quote": "Those who cannot change their minds cannot change anything.",
     "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2026-03-21",
+    "quote": "The friendship that can cease has never been real.",
+    "author": "St. Jerome"
   }
 ]
