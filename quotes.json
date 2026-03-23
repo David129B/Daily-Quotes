@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-21",
-    "quote": "I love fools' experiments. I am always making them.",
-    "author": "Charles Darwin"
-  },
-  {
     "date": "2026-02-22",
     "quote": "By words the mind is winged.",
     "author": "Aristophanes"
@@ -148,5 +143,10 @@
     "date": "2026-03-22",
     "quote": "Fears are nothing more than a state of mind.",
     "author": "Napoleon Hill"
+  },
+  {
+    "date": "2026-03-23",
+    "quote": "It is up to each of us to sing as we feel moved by the overall song of life.",
+    "author": "Ming-Dao Deng"
   }
 ]
