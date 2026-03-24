@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-22",
-    "quote": "By words the mind is winged.",
-    "author": "Aristophanes"
-  },
-  {
     "date": "2026-02-23",
     "quote": "Re-examine all that you have been told... dismiss that which insults your soul.",
     "author": "Walt Whitman"
@@ -148,5 +143,10 @@
     "date": "2026-03-23",
     "quote": "It is up to each of us to sing as we feel moved by the overall song of life.",
     "author": "Ming-Dao Deng"
+  },
+  {
+    "date": "2026-03-24",
+    "quote": "You already have every characteristic necessary for success if you recognize, claim, develop and use them.",
+    "author": "Zig Ziglar"
   }
 ]
