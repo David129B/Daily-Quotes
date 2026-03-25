@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-23",
-    "quote": "Re-examine all that you have been told... dismiss that which insults your soul.",
-    "author": "Walt Whitman"
-  },
-  {
     "date": "2026-02-24",
     "quote": "Live calmly. The time will come when the flowers bloom by themselves.",
     "author": "Zen Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-03-24",
     "quote": "You already have every characteristic necessary for success if you recognize, claim, develop and use them.",
     "author": "Zig Ziglar"
+  },
+  {
+    "date": "2026-03-25",
+    "quote": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
+    "author": "Confucius"
   }
 ]
