@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-24",
-    "quote": "Live calmly. The time will come when the flowers bloom by themselves.",
-    "author": "Zen Proverb"
-  },
-  {
     "date": "2026-02-25",
     "quote": "First learn the meaning of what you say, and then speak.",
     "author": "Epictetus"
@@ -148,5 +143,10 @@
     "date": "2026-03-25",
     "quote": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
     "author": "Confucius"
+  },
+  {
+    "date": "2026-03-26",
+    "quote": "The more people you help become successful the more successful you become.",
+    "author": "Steve Harvey"
   }
 ]
