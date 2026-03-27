@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-25",
-    "quote": "First learn the meaning of what you say, and then speak.",
-    "author": "Epictetus"
-  },
-  {
     "date": "2026-02-26",
     "quote": "Believe and you're halfway there.",
     "author": "Harry S. Truman"
@@ -148,5 +143,10 @@
     "date": "2026-03-26",
     "quote": "The more people you help become successful the more successful you become.",
     "author": "Steve Harvey"
+  },
+  {
+    "date": "2026-03-27",
+    "quote": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.",
+    "author": "Theodore Roosevelt"
   }
 ]
