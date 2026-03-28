@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-26",
-    "quote": "Believe and you're halfway there.",
-    "author": "Harry S. Truman"
-  },
-  {
     "date": "2026-02-27",
     "quote": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
     "author": "Sigmund Freud"
@@ -148,5 +143,10 @@
     "date": "2026-03-27",
     "quote": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.",
     "author": "Theodore Roosevelt"
+  },
+  {
+    "date": "2026-03-28",
+    "quote": "The joy of life comes from our encounters with new experiences.",
+    "author": "Christopher McCandless"
   }
 ]
