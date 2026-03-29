@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-27",
-    "quote": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
-    "author": "Sigmund Freud"
-  },
-  {
     "date": "2026-02-28",
     "quote": "It is better to disappoint people with the truth than to appease them with a lie.",
     "author": "Simon Sinek"
@@ -148,5 +143,10 @@
     "date": "2026-03-28",
     "quote": "The joy of life comes from our encounters with new experiences.",
     "author": "Christopher McCandless"
+  },
+  {
+    "date": "2026-03-29",
+    "quote": "It's easier to lose than to win.",
+    "author": "Wayne Gretzky"
   }
 ]
