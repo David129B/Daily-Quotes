@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-02-28",
-    "quote": "It is better to disappoint people with the truth than to appease them with a lie.",
-    "author": "Simon Sinek"
-  },
-  {
     "date": "2026-03-01",
     "quote": "Live in the sunshine, swim the sea, drink the wild air.",
     "author": "Ralph Waldo Emerson"
@@ -148,5 +143,10 @@
     "date": "2026-03-29",
     "quote": "It's easier to lose than to win.",
     "author": "Wayne Gretzky"
+  },
+  {
+    "date": "2026-03-30",
+    "quote": "Those who are enlightened never stop forging themselves.",
+    "author": "Morihei Ueshiba"
   }
 ]
