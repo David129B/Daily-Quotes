@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-01",
-    "quote": "Live in the sunshine, swim the sea, drink the wild air.",
-    "author": "Ralph Waldo Emerson"
-  },
-  {
     "date": "2026-03-02",
     "quote": "Death smiles at us all. All we can do is smile back.",
     "author": "Marcus Aurelius"
@@ -148,5 +143,10 @@
     "date": "2026-03-30",
     "quote": "Those who are enlightened never stop forging themselves.",
     "author": "Morihei Ueshiba"
+  },
+  {
+    "date": "2026-03-31",
+    "quote": "Let the beauty of what you love be what you do.",
+    "author": "Rumi"
   }
 ]
