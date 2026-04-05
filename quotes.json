@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-06",
-    "quote": "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.",
-    "author": "Maya Angelou"
-  },
-  {
     "date": "2026-03-07",
     "quote": "We have no more right to consume happiness without producing it than to consume wealth without producing it.",
     "author": "George Bernard Shaw"
@@ -148,5 +143,10 @@
     "date": "2026-04-04",
     "quote": "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.",
     "author": "Joan Rivers"
+  },
+  {
+    "date": "2026-04-05",
+    "quote": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.",
+    "author": "Zig Ziglar"
   }
 ]
