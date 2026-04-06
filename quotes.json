@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-07",
-    "quote": "We have no more right to consume happiness without producing it than to consume wealth without producing it.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-03-08",
     "quote": "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.",
     "author": "Herbert Hoover"
@@ -148,5 +143,10 @@
     "date": "2026-04-05",
     "quote": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.",
     "author": "Zig Ziglar"
+  },
+  {
+    "date": "2026-04-06",
+    "quote": "Words used to attract the dull of wit are not to be relied on.",
+    "author": "Huang Po"
   }
 ]
