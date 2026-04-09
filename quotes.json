@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-10",
-    "quote": "You can't go forward and backwards at the same time.",
-    "author": "Steve Harvey"
-  },
-  {
     "date": "2026-03-11",
     "quote": "See what you're doing wrong, laugh at it, change and do better.",
     "author": "Spencer Johnson"
@@ -148,5 +143,10 @@
     "date": "2026-04-08",
     "quote": "If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.",
     "author": "Charles Darwin"
+  },
+  {
+    "date": "2026-04-09",
+    "quote": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.",
+    "author": "Alexander Graham Bell"
   }
 ]
