@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-11",
-    "quote": "See what you're doing wrong, laugh at it, change and do better.",
-    "author": "Spencer Johnson"
-  },
-  {
     "date": "2026-03-12",
     "quote": "Nature loves to hide.",
     "author": "Heraclitus"
@@ -148,5 +143,10 @@
     "date": "2026-04-09",
     "quote": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.",
     "author": "Alexander Graham Bell"
+  },
+  {
+    "date": "2026-04-10",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
