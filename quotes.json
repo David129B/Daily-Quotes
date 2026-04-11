@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-12",
-    "quote": "Nature loves to hide.",
-    "author": "Heraclitus"
-  },
-  {
     "date": "2026-03-13",
     "quote": "Why do you stay in prison when the door is so wide open?",
     "author": "Rumi"
@@ -148,5 +143,10 @@
     "date": "2026-04-10",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-04-11",
+    "quote": "Either you choose to stay in the shallow end of the pool or you go out into the ocean.",
+    "author": "Christopher Reeve"
   }
 ]
