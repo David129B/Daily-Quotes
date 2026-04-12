@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-13",
-    "quote": "Why do you stay in prison when the door is so wide open?",
-    "author": "Rumi"
-  },
-  {
     "date": "2026-03-14",
     "quote": "You can have it all. You just can't have it all at once.",
     "author": "Oprah Winfrey"
@@ -148,5 +143,10 @@
     "date": "2026-04-11",
     "quote": "Either you choose to stay in the shallow end of the pool or you go out into the ocean.",
     "author": "Christopher Reeve"
+  },
+  {
+    "date": "2026-04-12",
+    "quote": "Here and now...breathe and relax...in battle and in life.",
+    "author": "Dan Millman"
   }
 ]
