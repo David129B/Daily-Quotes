@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-15",
-    "quote": "Any idea, plan, or purpose may be placed in the mind through repetition of thought.",
-    "author": "Napoleon Hill"
-  },
-  {
     "date": "2026-03-16",
     "quote": "We are most nearly ourselves when we achieve the seriousness of the child at play.",
     "author": "Heraclitus"
@@ -148,5 +143,10 @@
     "date": "2026-04-13",
     "quote": "Obstacles don't block the path, they are the path.",
     "author": "Zen Proverb"
+  },
+  {
+    "date": "2026-04-14",
+    "quote": "No man can get rich himself unless he enriches others.",
+    "author": "Earl Nightingale"
   }
 ]
