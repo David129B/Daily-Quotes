@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-17",
-    "quote": "Better to have, and not need, than to need, and not have.",
-    "author": "Franz Kafka"
-  },
-  {
     "date": "2026-03-18",
     "quote": "Not all those who wander are lost.",
     "author": "J.R.R. Tolkien"
@@ -148,5 +143,10 @@
     "date": "2026-04-15",
     "quote": "A fall into a ditch makes you wiser.",
     "author": "Chinese Proverb"
+  },
+  {
+    "date": "2026-04-16",
+    "quote": "Fear of death is fear of the Unknown.",
+    "author": "Adi Da Samraj"
   }
 ]
