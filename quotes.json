@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-18",
-    "quote": "Not all those who wander are lost.",
-    "author": "J.R.R. Tolkien"
-  },
-  {
     "date": "2026-03-19",
     "quote": "Awaken. Take heed, do not squander your life.",
     "author": "Dogen"
@@ -148,5 +143,10 @@
     "date": "2026-04-16",
     "quote": "Fear of death is fear of the Unknown.",
     "author": "Adi Da Samraj"
+  },
+  {
+    "date": "2026-04-17",
+    "quote": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying.",
+    "author": "Amelia Earhart"
   }
 ]
