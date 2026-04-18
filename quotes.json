@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-19",
-    "quote": "Awaken. Take heed, do not squander your life.",
-    "author": "Dogen"
-  },
-  {
     "date": "2026-03-20",
     "quote": "Those who cannot change their minds cannot change anything.",
     "author": "George Bernard Shaw"
@@ -148,5 +143,10 @@
     "date": "2026-04-17",
     "quote": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying.",
     "author": "Amelia Earhart"
+  },
+  {
+    "date": "2026-04-18",
+    "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.",
+    "author": "Spencer Johnson"
   }
 ]
