@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-20",
-    "quote": "Those who cannot change their minds cannot change anything.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-03-21",
     "quote": "The friendship that can cease has never been real.",
     "author": "St. Jerome"
@@ -148,5 +143,10 @@
     "date": "2026-04-18",
     "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.",
     "author": "Spencer Johnson"
+  },
+  {
+    "date": "2026-04-19",
+    "quote": "Just living is not enough... one must have sunshine, freedom, and a little flower.",
+    "author": "Hans Christian Andersen"
   }
 ]
