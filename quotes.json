@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-21",
-    "quote": "The friendship that can cease has never been real.",
-    "author": "St. Jerome"
-  },
-  {
     "date": "2026-03-22",
     "quote": "Fears are nothing more than a state of mind.",
     "author": "Napoleon Hill"
@@ -148,5 +143,10 @@
     "date": "2026-04-19",
     "quote": "Just living is not enough... one must have sunshine, freedom, and a little flower.",
     "author": "Hans Christian Andersen"
+  },
+  {
+    "date": "2026-04-20",
+    "quote": "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.",
+    "author": "Simon Sinek"
   }
 ]
