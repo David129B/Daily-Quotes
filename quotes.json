@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-24",
-    "quote": "You already have every characteristic necessary for success if you recognize, claim, develop and use them.",
-    "author": "Zig Ziglar"
-  },
-  {
     "date": "2026-03-25",
     "quote": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
     "author": "Confucius"
@@ -148,5 +143,10 @@
     "date": "2026-04-22",
     "quote": "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.",
     "author": "William James"
+  },
+  {
+    "date": "2026-04-23",
+    "quote": "Realistic people do not accomplish extraordinary things.",
+    "author": "John Eliot"
   }
 ]
