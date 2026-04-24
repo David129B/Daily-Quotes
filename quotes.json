@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-25",
-    "quote": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
-    "author": "Confucius"
-  },
-  {
     "date": "2026-03-26",
     "quote": "The more people you help become successful the more successful you become.",
     "author": "Steve Harvey"
@@ -148,5 +143,10 @@
     "date": "2026-04-23",
     "quote": "Realistic people do not accomplish extraordinary things.",
     "author": "John Eliot"
+  },
+  {
+    "date": "2026-04-24",
+    "quote": "Dreams are the royal road to the unconscious.",
+    "author": "Sigmund Freud"
   }
 ]
