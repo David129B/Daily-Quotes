@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-26",
-    "quote": "The more people you help become successful the more successful you become.",
-    "author": "Steve Harvey"
-  },
-  {
     "date": "2026-03-27",
     "quote": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.",
     "author": "Theodore Roosevelt"
@@ -148,5 +143,10 @@
     "date": "2026-04-24",
     "quote": "Dreams are the royal road to the unconscious.",
     "author": "Sigmund Freud"
+  },
+  {
+    "date": "2026-04-25",
+    "quote": "By the practice of meditation, you will find that you are carrying within your heart a portable paradise.",
+    "author": "Paramahansa Yogananda"
   }
 ]
