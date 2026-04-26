@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-27",
-    "quote": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.",
-    "author": "Theodore Roosevelt"
-  },
-  {
     "date": "2026-03-28",
     "quote": "The joy of life comes from our encounters with new experiences.",
     "author": "Christopher McCandless"
@@ -148,5 +143,10 @@
     "date": "2026-04-25",
     "quote": "By the practice of meditation, you will find that you are carrying within your heart a portable paradise.",
     "author": "Paramahansa Yogananda"
+  },
+  {
+    "date": "2026-04-26",
+    "quote": "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.",
+    "author": "Naval Ravikant"
   }
 ]
