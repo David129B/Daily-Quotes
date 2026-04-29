@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-03-30",
-    "quote": "Those who are enlightened never stop forging themselves.",
-    "author": "Morihei Ueshiba"
-  },
-  {
     "date": "2026-03-31",
     "quote": "Let the beauty of what you love be what you do.",
     "author": "Rumi"
@@ -148,5 +143,10 @@
     "date": "2026-04-28",
     "quote": "There's more to life than being a passenger.",
     "author": "Amelia Earhart"
+  },
+  {
+    "date": "2026-04-29",
+    "quote": "Far more crucial than what we know or do not know is what we do not want to know.",
+    "author": "Eric Hoffer"
   }
 ]
