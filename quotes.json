@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-01",
-    "quote": "All I can do is be me, whoever that is.",
-    "author": "Bob Dylan"
-  },
-  {
     "date": "2026-04-02",
     "quote": "Begin at once to live, and count each separate day as a separate life.",
     "author": "Seneca"
@@ -148,5 +143,10 @@
     "date": "2026-04-30",
     "quote": "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.",
     "author": "Sydney Smith"
+  },
+  {
+    "date": "2026-05-01",
+    "quote": "You can never get enough of what you don't need to make you happy.",
+    "author": "Eric Hoffer"
   }
 ]
