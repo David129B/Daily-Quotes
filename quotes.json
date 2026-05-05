@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "quote": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.",
-    "author": "Zig Ziglar"
-  },
-  {
     "date": "2026-04-06",
     "quote": "Words used to attract the dull of wit are not to be relied on.",
     "author": "Huang Po"
@@ -148,5 +143,10 @@
     "date": "2026-05-04",
     "quote": "Follow your instincts. That is where true wisdom manifests itself.",
     "author": "Oprah Winfrey"
+  },
+  {
+    "date": "2026-05-05",
+    "quote": "If you want to keep your memories, you first have to live them.",
+    "author": "Bob Dylan"
   }
 ]
