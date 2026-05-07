@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-07",
-    "quote": "If there were no God, there would be no atheists.",
-    "author": "Gilbert Chesterton"
-  },
-  {
     "date": "2026-04-08",
     "quote": "If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.",
     "author": "Charles Darwin"
@@ -148,5 +143,10 @@
     "date": "2026-05-06",
     "quote": "The most important thing in communication is to hear what isn't being said.",
     "author": "Peter Drucker"
+  },
+  {
+    "date": "2026-05-07",
+    "quote": "If light is in your heart, you will find your way home.",
+    "author": "Rumi"
   }
 ]
