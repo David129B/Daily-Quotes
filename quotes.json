@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-09",
-    "quote": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.",
-    "author": "Alexander Graham Bell"
-  },
-  {
     "date": "2026-04-10",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-05-08",
     "quote": "A man with outward courage dares to die: a man with inner courage dares to live.",
     "author": "Lao Tzu"
+  },
+  {
+    "date": "2026-05-09",
+    "quote": "Just do what must be done. This may not be happiness but it is greatness.",
+    "author": "George Bernard Shaw"
   }
 ]
