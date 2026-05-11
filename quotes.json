@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-11",
-    "quote": "Either you choose to stay in the shallow end of the pool or you go out into the ocean.",
-    "author": "Christopher Reeve"
-  },
-  {
     "date": "2026-04-12",
     "quote": "Here and now...breathe and relax...in battle and in life.",
     "author": "Dan Millman"
@@ -148,5 +143,10 @@
     "date": "2026-05-10",
     "quote": "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.",
     "author": "Naval Ravikant"
+  },
+  {
+    "date": "2026-05-11",
+    "quote": "Life is love and love is life.",
+    "author": "Elvis Presley"
   }
 ]
