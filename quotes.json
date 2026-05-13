@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-13",
-    "quote": "Obstacles don't block the path, they are the path.",
-    "author": "Zen Proverb"
-  },
-  {
     "date": "2026-04-14",
     "quote": "No man can get rich himself unless he enriches others.",
     "author": "Earl Nightingale"
@@ -148,5 +143,10 @@
     "date": "2026-05-12",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-05-13",
+    "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+    "author": "Margaret Mead"
   }
 ]
