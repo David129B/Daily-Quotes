@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-14",
-    "quote": "No man can get rich himself unless he enriches others.",
-    "author": "Earl Nightingale"
-  },
-  {
     "date": "2026-04-15",
     "quote": "A fall into a ditch makes you wiser.",
     "author": "Chinese Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-05-13",
     "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
     "author": "Margaret Mead"
+  },
+  {
+    "date": "2026-05-14",
+    "quote": "Becoming a great leader doesn't mean being perfect. it means living with your imperfections.",
+    "author": "Lolly Daskal"
   }
 ]
