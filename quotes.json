@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-15",
-    "quote": "A fall into a ditch makes you wiser.",
-    "author": "Chinese Proverb"
-  },
-  {
     "date": "2026-04-16",
     "quote": "Fear of death is fear of the Unknown.",
     "author": "Adi Da Samraj"
@@ -148,5 +143,10 @@
     "date": "2026-05-14",
     "quote": "Becoming a great leader doesn't mean being perfect. it means living with your imperfections.",
     "author": "Lolly Daskal"
+  },
+  {
+    "date": "2026-05-15",
+    "quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.",
+    "author": "Paulo Coelho"
   }
 ]
