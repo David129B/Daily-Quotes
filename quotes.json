@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-16",
-    "quote": "Fear of death is fear of the Unknown.",
-    "author": "Adi Da Samraj"
-  },
-  {
     "date": "2026-04-17",
     "quote": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying.",
     "author": "Amelia Earhart"
@@ -148,5 +143,10 @@
     "date": "2026-05-15",
     "quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.",
     "author": "Paulo Coelho"
+  },
+  {
+    "date": "2026-05-16",
+    "quote": "It all depends on what you choose to believe.",
+    "author": "Spencer Johnson"
   }
 ]
