@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-17",
-    "quote": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying.",
-    "author": "Amelia Earhart"
-  },
-  {
     "date": "2026-04-18",
     "quote": "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.",
     "author": "Spencer Johnson"
@@ -148,5 +143,10 @@
     "date": "2026-05-16",
     "quote": "It all depends on what you choose to believe.",
     "author": "Spencer Johnson"
+  },
+  {
+    "date": "2026-05-17",
+    "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+    "author": "Margaret Mead"
   }
 ]
