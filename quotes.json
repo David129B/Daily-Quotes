@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-20",
-    "quote": "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.",
-    "author": "Simon Sinek"
-  },
-  {
     "date": "2026-04-21",
     "quote": "The nearer a man comes to a calm mind, the closer he is to strength.",
     "author": "Marcus Aurelius"
@@ -148,5 +143,10 @@
     "date": "2026-05-19",
     "quote": "There are only encounters in history. There are no accidents.",
     "author": "Pablo Picasso"
+  },
+  {
+    "date": "2026-05-20",
+    "quote": "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
+    "author": "Sigmund Freud"
   }
 ]
