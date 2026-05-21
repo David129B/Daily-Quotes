@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-21",
-    "quote": "The nearer a man comes to a calm mind, the closer he is to strength.",
-    "author": "Marcus Aurelius"
-  },
-  {
     "date": "2026-04-22",
     "quote": "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.",
     "author": "William James"
@@ -148,5 +143,10 @@
     "date": "2026-05-20",
     "quote": "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
     "author": "Sigmund Freud"
+  },
+  {
+    "date": "2026-05-21",
+    "quote": "If you run you stand a chance of losing, but if you don't run you've already lost.",
+    "author": "Barack Obama"
   }
 ]
