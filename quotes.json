@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-22",
-    "quote": "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.",
-    "author": "William James"
-  },
-  {
     "date": "2026-04-23",
     "quote": "Realistic people do not accomplish extraordinary things.",
     "author": "John Eliot"
@@ -148,5 +143,10 @@
     "date": "2026-05-21",
     "quote": "If you run you stand a chance of losing, but if you don't run you've already lost.",
     "author": "Barack Obama"
+  },
+  {
+    "date": "2026-05-22",
+    "quote": "Only when one allows themself the right to die, do they then give yourself the permission to live.",
+    "author": "C. Sean McGee"
   }
 ]
