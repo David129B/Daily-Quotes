@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-24",
-    "quote": "Dreams are the royal road to the unconscious.",
-    "author": "Sigmund Freud"
-  },
-  {
     "date": "2026-04-25",
     "quote": "By the practice of meditation, you will find that you are carrying within your heart a portable paradise.",
     "author": "Paramahansa Yogananda"
@@ -148,5 +143,10 @@
     "date": "2026-05-23",
     "quote": "To be calm is the highest achievement of the self.",
     "author": "Zen Proverb"
+  },
+  {
+    "date": "2026-05-24",
+    "quote": "It's not the love you make. It's the love you give.",
+    "author": "Nikola Tesla"
   }
 ]
