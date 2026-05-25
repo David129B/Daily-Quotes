@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-25",
-    "quote": "By the practice of meditation, you will find that you are carrying within your heart a portable paradise.",
-    "author": "Paramahansa Yogananda"
-  },
-  {
     "date": "2026-04-26",
     "quote": "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.",
     "author": "Naval Ravikant"
@@ -148,5 +143,10 @@
     "date": "2026-05-24",
     "quote": "It's not the love you make. It's the love you give.",
     "author": "Nikola Tesla"
+  },
+  {
+    "date": "2026-05-25",
+    "quote": "Circumstances do not make the man, they reveal him.",
+    "author": "James Allen"
   }
 ]
