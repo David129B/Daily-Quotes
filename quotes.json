@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-27",
-    "quote": "Blessed is he who expects nothing, for he shall be disappointed.",
-    "author": "Jonathan Swift"
-  },
-  {
     "date": "2026-04-28",
     "quote": "There's more to life than being a passenger.",
     "author": "Amelia Earhart"
@@ -148,5 +143,10 @@
     "date": "2026-05-27",
     "quote": "High thoughts must have high language.",
     "author": "Aristophanes"
+  },
+  {
+    "date": "2026-05-28",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
