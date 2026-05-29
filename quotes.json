@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-28",
-    "quote": "There's more to life than being a passenger.",
-    "author": "Amelia Earhart"
-  },
-  {
     "date": "2026-04-29",
     "quote": "Far more crucial than what we know or do not know is what we do not want to know.",
     "author": "Eric Hoffer"
@@ -148,5 +143,10 @@
     "date": "2026-05-28",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-05-29",
+    "quote": "The traveler sees what he sees. The tourist sees what he has come to see.",
+    "author": "Gilbert Chesterton"
   }
 ]
