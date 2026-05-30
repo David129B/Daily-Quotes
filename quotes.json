@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-29",
-    "quote": "Far more crucial than what we know or do not know is what we do not want to know.",
-    "author": "Eric Hoffer"
-  },
-  {
     "date": "2026-04-30",
     "quote": "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.",
     "author": "Sydney Smith"
@@ -148,5 +143,10 @@
     "date": "2026-05-29",
     "quote": "The traveler sees what he sees. The tourist sees what he has come to see.",
     "author": "Gilbert Chesterton"
+  },
+  {
+    "date": "2026-05-30",
+    "quote": "Life is not meant to be easy my child, but take courage: it can be delightful.",
+    "author": "George Bernard Shaw"
   }
 ]
