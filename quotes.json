@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-04-30",
-    "quote": "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.",
-    "author": "Sydney Smith"
-  },
-  {
     "date": "2026-05-01",
     "quote": "You can never get enough of what you don't need to make you happy.",
     "author": "Eric Hoffer"
@@ -148,5 +143,10 @@
     "date": "2026-05-30",
     "quote": "Life is not meant to be easy my child, but take courage: it can be delightful.",
     "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2026-05-31",
+    "quote": "Make peace with your inner turmoil.",
+    "author": "Unknown"
   }
 ]
