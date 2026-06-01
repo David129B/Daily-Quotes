@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-01",
-    "quote": "You can never get enough of what you don't need to make you happy.",
-    "author": "Eric Hoffer"
-  },
-  {
     "date": "2026-05-02",
     "quote": "The very essence of instinct is that it's followed independently of reason.",
     "author": "Charles Darwin"
@@ -148,5 +143,10 @@
     "date": "2026-05-31",
     "quote": "Make peace with your inner turmoil.",
     "author": "Unknown"
+  },
+  {
+    "date": "2026-06-01",
+    "quote": "Evil is whatever distracts.",
+    "author": "Franz Kafka"
   }
 ]
