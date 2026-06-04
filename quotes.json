@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-04",
-    "quote": "Follow your instincts. That is where true wisdom manifests itself.",
-    "author": "Oprah Winfrey"
-  },
-  {
     "date": "2026-05-05",
     "quote": "If you want to keep your memories, you first have to live them.",
     "author": "Bob Dylan"
@@ -146,6 +141,11 @@
   },
   {
     "date": "2026-06-03",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-06-04",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
   }
