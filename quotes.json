@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-05",
-    "quote": "If you want to keep your memories, you first have to live them.",
-    "author": "Bob Dylan"
-  },
-  {
     "date": "2026-05-06",
     "quote": "The most important thing in communication is to hear what isn't being said.",
     "author": "Peter Drucker"
@@ -148,5 +143,10 @@
     "date": "2026-06-04",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-06-05",
+    "quote": "Failure is a great teacher. If you're open to it every mistake has a lesson to offer.",
+    "author": "Oprah Winfrey"
   }
 ]
