@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-07",
-    "quote": "If light is in your heart, you will find your way home.",
-    "author": "Rumi"
-  },
-  {
     "date": "2026-05-08",
     "quote": "A man with outward courage dares to die: a man with inner courage dares to live.",
     "author": "Lao Tzu"
@@ -148,5 +143,10 @@
     "date": "2026-06-06",
     "quote": "The universe doesn't allow perfection.",
     "author": "Stephen Hawking"
+  },
+  {
+    "date": "2026-06-07",
+    "quote": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+    "author": "Dalai Lama"
   }
 ]
