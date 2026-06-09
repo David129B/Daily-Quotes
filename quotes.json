@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "quote": "Just do what must be done. This may not be happiness but it is greatness.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-05-10",
     "quote": "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.",
     "author": "Naval Ravikant"
@@ -148,5 +143,10 @@
     "date": "2026-06-08",
     "quote": "Understanding that rests in what it does not understand is the finest.",
     "author": "Zhuangzi"
+  },
+  {
+    "date": "2026-06-09",
+    "quote": "A man sees in the world what he carries in his heart.",
+    "author": "Johann Wolfgang von Goethe"
   }
 ]
