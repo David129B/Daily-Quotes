@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-05-13",
     "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
     "author": "Margaret Mead"
@@ -148,5 +143,10 @@
     "date": "2026-06-11",
     "quote": "Leadership starts at the top.",
     "author": "Morgan Wootten"
+  },
+  {
+    "date": "2026-06-12",
+    "quote": "A life without a cause is a life without effect.",
+    "author": "Paulo Coelho"
   }
 ]
