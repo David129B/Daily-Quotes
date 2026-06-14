@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-14",
-    "quote": "Becoming a great leader doesn't mean being perfect. it means living with your imperfections.",
-    "author": "Lolly Daskal"
-  },
-  {
     "date": "2026-05-15",
     "quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.",
     "author": "Paulo Coelho"
@@ -148,5 +143,10 @@
     "date": "2026-06-13",
     "quote": "You become stronger with every problem you face and every obstacle you overcome.",
     "author": "Celestine Chua"
+  },
+  {
+    "date": "2026-06-14",
+    "quote": "Greatness comes from living with purpose and passion.",
+    "author": "Ralph Marston"
   }
 ]
