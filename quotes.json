@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-15",
-    "quote": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.",
-    "author": "Paulo Coelho"
-  },
-  {
     "date": "2026-05-16",
     "quote": "It all depends on what you choose to believe.",
     "author": "Spencer Johnson"
@@ -148,5 +143,10 @@
     "date": "2026-06-14",
     "quote": "Greatness comes from living with purpose and passion.",
     "author": "Ralph Marston"
+  },
+  {
+    "date": "2026-06-15",
+    "quote": "Failure is the key to success; each mistake teaches us something.",
+    "author": "Morihei Ueshiba"
   }
 ]
