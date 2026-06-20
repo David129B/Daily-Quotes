@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-20",
-    "quote": "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
-    "author": "Sigmund Freud"
-  },
-  {
     "date": "2026-05-21",
     "quote": "If you run you stand a chance of losing, but if you don't run you've already lost.",
     "author": "Barack Obama"
@@ -148,5 +143,10 @@
     "date": "2026-06-19",
     "quote": "Remember, today is the tomorrow you worried about yesterday.",
     "author": "Dale Carnegie"
+  },
+  {
+    "date": "2026-06-20",
+    "quote": "Sometimes things become possible if we want them bad enough.",
+    "author": "T.S. Eliot"
   }
 ]
