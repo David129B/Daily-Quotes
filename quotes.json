@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-21",
-    "quote": "If you run you stand a chance of losing, but if you don't run you've already lost.",
-    "author": "Barack Obama"
-  },
-  {
     "date": "2026-05-22",
     "quote": "Only when one allows themself the right to die, do they then give yourself the permission to live.",
     "author": "C. Sean McGee"
@@ -148,5 +143,10 @@
     "date": "2026-06-20",
     "quote": "Sometimes things become possible if we want them bad enough.",
     "author": "T.S. Eliot"
+  },
+  {
+    "date": "2026-06-21",
+    "quote": "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.",
+    "author": "Sonia Ricotti"
   }
 ]
