@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "quote": "It's not the love you make. It's the love you give.",
-    "author": "Nikola Tesla"
-  },
-  {
     "date": "2026-05-25",
     "quote": "Circumstances do not make the man, they reveal him.",
     "author": "James Allen"
@@ -148,5 +143,10 @@
     "date": "2026-06-23",
     "quote": "Without the rain there would be no rainbow.",
     "author": "Gilbert Chesterton"
+  },
+  {
+    "date": "2026-06-24",
+    "quote": "He who possesses most must be most afraid of loss.",
+    "author": "Leonardo da Vinci"
   }
 ]
