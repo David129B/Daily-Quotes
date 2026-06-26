@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-27",
-    "quote": "High thoughts must have high language.",
-    "author": "Aristophanes"
-  },
-  {
     "date": "2026-05-28",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-06-25",
     "quote": "If you don't like something change it; if you can't change it, change the way you think about it.",
     "author": "Mary Engelbreit"
+  },
+  {
+    "date": "2026-06-26",
+    "quote": "He who cheats the earth will be cheated by the earth.",
+    "author": "Chinese Proverb"
   }
 ]
