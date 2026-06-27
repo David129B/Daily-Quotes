@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-05-29",
     "quote": "The traveler sees what he sees. The tourist sees what he has come to see.",
     "author": "Gilbert Chesterton"
@@ -148,5 +143,10 @@
     "date": "2026-06-26",
     "quote": "He who cheats the earth will be cheated by the earth.",
     "author": "Chinese Proverb"
+  },
+  {
+    "date": "2026-06-27",
+    "quote": "Success and failure come and go, but don't let them define you. It's who you are that matters.",
+    "author": "Kamal Ravikant"
   }
 ]
