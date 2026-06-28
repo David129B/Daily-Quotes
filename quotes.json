@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-29",
-    "quote": "The traveler sees what he sees. The tourist sees what he has come to see.",
-    "author": "Gilbert Chesterton"
-  },
-  {
     "date": "2026-05-30",
     "quote": "Life is not meant to be easy my child, but take courage: it can be delightful.",
     "author": "George Bernard Shaw"
@@ -148,5 +143,10 @@
     "date": "2026-06-27",
     "quote": "Success and failure come and go, but don't let them define you. It's who you are that matters.",
     "author": "Kamal Ravikant"
+  },
+  {
+    "date": "2026-06-28",
+    "quote": "To lead an orchestra, you must turn your back on the crowd.",
+    "author": "Aristotle"
   }
 ]
