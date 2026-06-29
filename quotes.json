@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-30",
-    "quote": "Life is not meant to be easy my child, but take courage: it can be delightful.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-05-31",
     "quote": "Make peace with your inner turmoil.",
     "author": "Unknown"
@@ -148,5 +143,10 @@
     "date": "2026-06-28",
     "quote": "To lead an orchestra, you must turn your back on the crowd.",
     "author": "Aristotle"
+  },
+  {
+    "date": "2026-06-29",
+    "quote": "Creative people are often found either disagreeable or intimidating by mediocrities.",
+    "author": "Criss Jami"
   }
 ]
