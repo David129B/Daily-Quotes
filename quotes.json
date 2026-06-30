@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "quote": "Make peace with your inner turmoil.",
-    "author": "Unknown"
-  },
-  {
     "date": "2026-06-01",
     "quote": "Evil is whatever distracts.",
     "author": "Franz Kafka"
@@ -148,5 +143,10 @@
     "date": "2026-06-29",
     "quote": "Creative people are often found either disagreeable or intimidating by mediocrities.",
     "author": "Criss Jami"
+  },
+  {
+    "date": "2026-06-30",
+    "quote": "It does not matter how slowly you go so long as you do not stop.",
+    "author": "Confucius"
   }
 ]
