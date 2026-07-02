@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "quote": "All we have to decide is what to do with the time that is given to us.",
-    "author": "J.R.R. Tolkien"
-  },
-  {
     "date": "2026-06-03",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-07-01",
     "quote": "A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.",
     "author": "Amelia Earhart"
+  },
+  {
+    "date": "2026-07-02",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
