@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-06-04",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-07-02",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-07-03",
+    "quote": "You can't let your failures define you. You have to let your failures teach you.",
+    "author": "Barack Obama"
   }
 ]
