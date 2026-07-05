@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "quote": "Failure is a great teacher. If you're open to it every mistake has a lesson to offer.",
-    "author": "Oprah Winfrey"
-  },
-  {
     "date": "2026-06-06",
     "quote": "The universe doesn't allow perfection.",
     "author": "Stephen Hawking"
@@ -148,5 +143,10 @@
     "date": "2026-07-04",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-07-05",
+    "quote": "Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.",
+    "author": "Charles Spurgeon"
   }
 ]
