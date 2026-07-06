@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-06",
-    "quote": "The universe doesn't allow perfection.",
-    "author": "Stephen Hawking"
-  },
-  {
     "date": "2026-06-07",
     "quote": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
     "author": "Dalai Lama"
@@ -148,5 +143,10 @@
     "date": "2026-07-05",
     "quote": "Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.",
     "author": "Charles Spurgeon"
+  },
+  {
+    "date": "2026-07-06",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
