@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-11",
-    "quote": "Leadership starts at the top.",
-    "author": "Morgan Wootten"
-  },
-  {
     "date": "2026-06-12",
     "quote": "A life without a cause is a life without effect.",
     "author": "Paulo Coelho"
@@ -148,5 +143,10 @@
     "date": "2026-07-10",
     "quote": "There is no value in anything until it is finished.",
     "author": "Genghis Khan"
+  },
+  {
+    "date": "2026-07-11",
+    "quote": "We learn to walk by falling down. If we never fell down, we would never walk.",
+    "author": "Robert Kiyosaki"
   }
 ]
