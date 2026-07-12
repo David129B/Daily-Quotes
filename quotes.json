@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-12",
-    "quote": "A life without a cause is a life without effect.",
-    "author": "Paulo Coelho"
-  },
-  {
     "date": "2026-06-13",
     "quote": "You become stronger with every problem you face and every obstacle you overcome.",
     "author": "Celestine Chua"
@@ -148,5 +143,10 @@
     "date": "2026-07-11",
     "quote": "We learn to walk by falling down. If we never fell down, we would never walk.",
     "author": "Robert Kiyosaki"
+  },
+  {
+    "date": "2026-07-12",
+    "quote": "If your mind is empty, it is always ready for anything, it is open to everything.",
+    "author": "Shunryu Suzuki"
   }
 ]
