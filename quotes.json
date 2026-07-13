@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "quote": "You become stronger with every problem you face and every obstacle you overcome.",
-    "author": "Celestine Chua"
-  },
-  {
     "date": "2026-06-14",
     "quote": "Greatness comes from living with purpose and passion.",
     "author": "Ralph Marston"
@@ -148,5 +143,10 @@
     "date": "2026-07-12",
     "quote": "If your mind is empty, it is always ready for anything, it is open to everything.",
     "author": "Shunryu Suzuki"
+  },
+  {
+    "date": "2026-07-13",
+    "quote": "The friendship that can cease has never been real.",
+    "author": "St. Jerome"
   }
 ]
