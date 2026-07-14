@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-14",
-    "quote": "Greatness comes from living with purpose and passion.",
-    "author": "Ralph Marston"
-  },
-  {
     "date": "2026-06-15",
     "quote": "Failure is the key to success; each mistake teaches us something.",
     "author": "Morihei Ueshiba"
@@ -148,5 +143,10 @@
     "date": "2026-07-13",
     "quote": "The friendship that can cease has never been real.",
     "author": "St. Jerome"
+  },
+  {
+    "date": "2026-07-14",
+    "quote": "Work for something because it is good, not just because it stands a chance to succeed.",
+    "author": "Vaclav Havel"
   }
 ]
