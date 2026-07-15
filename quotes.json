@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "quote": "Failure is the key to success; each mistake teaches us something.",
-    "author": "Morihei Ueshiba"
-  },
-  {
     "date": "2026-06-16",
     "quote": "Successful people appreciate where they have come from, but they don't let their past set the tone for their future.",
     "author": "Steve Harvey"
@@ -148,5 +143,10 @@
     "date": "2026-07-14",
     "quote": "Work for something because it is good, not just because it stands a chance to succeed.",
     "author": "Vaclav Havel"
+  },
+  {
+    "date": "2026-07-15",
+    "quote": "I succeeded by saying what everyone else is thinking.",
+    "author": "Joan Rivers"
   }
 ]
