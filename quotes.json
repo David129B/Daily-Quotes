@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-16",
-    "quote": "Successful people appreciate where they have come from, but they don't let their past set the tone for their future.",
-    "author": "Steve Harvey"
-  },
-  {
     "date": "2026-06-17",
     "quote": "Your world is a living expression of how you are using and have used your mind.",
     "author": "Earl Nightingale"
@@ -148,5 +143,10 @@
     "date": "2026-07-15",
     "quote": "I succeeded by saying what everyone else is thinking.",
     "author": "Joan Rivers"
+  },
+  {
+    "date": "2026-07-16",
+    "quote": "Greatness comes from living with purpose and passion.",
+    "author": "Ralph Marston"
   }
 ]
