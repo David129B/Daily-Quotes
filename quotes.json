@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-17",
-    "quote": "Your world is a living expression of how you are using and have used your mind.",
-    "author": "Earl Nightingale"
-  },
-  {
     "date": "2026-06-18",
     "quote": "The ladder of success is best climbed by stepping on the rungs of opportunity.",
     "author": "Ayn Rand"
@@ -148,5 +143,10 @@
     "date": "2026-07-16",
     "quote": "Greatness comes from living with purpose and passion.",
     "author": "Ralph Marston"
+  },
+  {
+    "date": "2026-07-17",
+    "quote": "The wise pursue wisdom, the dull follow in blind faith.",
+    "author": "Tibetan Proverb"
   }
 ]
