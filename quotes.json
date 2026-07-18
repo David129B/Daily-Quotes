@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "quote": "The ladder of success is best climbed by stepping on the rungs of opportunity.",
-    "author": "Ayn Rand"
-  },
-  {
     "date": "2026-06-19",
     "quote": "Remember, today is the tomorrow you worried about yesterday.",
     "author": "Dale Carnegie"
@@ -148,5 +143,10 @@
     "date": "2026-07-17",
     "quote": "The wise pursue wisdom, the dull follow in blind faith.",
     "author": "Tibetan Proverb"
+  },
+  {
+    "date": "2026-07-18",
+    "quote": "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
+    "author": "Richard Bach"
   }
 ]
