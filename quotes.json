@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-20",
-    "quote": "Sometimes things become possible if we want them bad enough.",
-    "author": "T.S. Eliot"
-  },
-  {
     "date": "2026-06-21",
     "quote": "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.",
     "author": "Sonia Ricotti"
@@ -148,5 +143,10 @@
     "date": "2026-07-19",
     "quote": "Opportunity comes when you continually push forward.",
     "author": "Sonia Ricotti"
+  },
+  {
+    "date": "2026-07-20",
+    "quote": "You don't need to be better than anyone else, you just need to be better than you used to be.",
+    "author": "Wayne Dyer"
   }
 ]
