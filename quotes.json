@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-21",
-    "quote": "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.",
-    "author": "Sonia Ricotti"
-  },
-  {
     "date": "2026-06-22",
     "quote": "Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.",
     "author": "W. Clement Stone"
@@ -148,5 +143,10 @@
     "date": "2026-07-20",
     "quote": "You don't need to be better than anyone else, you just need to be better than you used to be.",
     "author": "Wayne Dyer"
+  },
+  {
+    "date": "2026-07-21",
+    "quote": "Educating the mind without educating the heart is no education at all.",
+    "author": "Aristotle"
   }
 ]
