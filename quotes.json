@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-22",
-    "quote": "Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.",
-    "author": "W. Clement Stone"
-  },
-  {
     "date": "2026-06-23",
     "quote": "Without the rain there would be no rainbow.",
     "author": "Gilbert Chesterton"
@@ -148,5 +143,10 @@
     "date": "2026-07-21",
     "quote": "Educating the mind without educating the heart is no education at all.",
     "author": "Aristotle"
+  },
+  {
+    "date": "2026-07-22",
+    "quote": "Don't seek, don't search, don't ask, don't knock, don't demand - relax.",
+    "author": "Osho"
   }
 ]
