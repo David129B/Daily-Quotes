@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-23",
-    "quote": "Without the rain there would be no rainbow.",
-    "author": "Gilbert Chesterton"
-  },
-  {
     "date": "2026-06-24",
     "quote": "He who possesses most must be most afraid of loss.",
     "author": "Leonardo da Vinci"
@@ -148,5 +143,10 @@
     "date": "2026-07-22",
     "quote": "Don't seek, don't search, don't ask, don't knock, don't demand - relax.",
     "author": "Osho"
+  },
+  {
+    "date": "2026-07-23",
+    "quote": "Nothing is easier than fault finding.",
+    "author": "Og Mandino"
   }
 ]
