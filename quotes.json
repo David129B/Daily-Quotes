@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "quote": "He who possesses most must be most afraid of loss.",
-    "author": "Leonardo da Vinci"
-  },
-  {
     "date": "2026-06-25",
     "quote": "If you don't like something change it; if you can't change it, change the way you think about it.",
     "author": "Mary Engelbreit"
@@ -148,5 +143,10 @@
     "date": "2026-07-23",
     "quote": "Nothing is easier than fault finding.",
     "author": "Og Mandino"
+  },
+  {
+    "date": "2026-07-24",
+    "quote": "Do not try to be on the side of the majority, but live according to your inner laws.",
+    "author": "Marcus Aurelius"
   }
 ]
