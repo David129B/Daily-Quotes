@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-29",
-    "quote": "Creative people are often found either disagreeable or intimidating by mediocrities.",
-    "author": "Criss Jami"
-  },
-  {
     "date": "2026-06-30",
     "quote": "It does not matter how slowly you go so long as you do not stop.",
     "author": "Confucius"
@@ -148,5 +143,10 @@
     "date": "2026-07-28",
     "quote": "The best way to not feel hopeless is to get up and do something.",
     "author": "Barack Obama"
+  },
+  {
+    "date": "2026-07-29",
+    "quote": "Success is a poor teacher.",
+    "author": "Robert Kiyosaki"
   }
 ]
