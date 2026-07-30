@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-06-30",
-    "quote": "It does not matter how slowly you go so long as you do not stop.",
-    "author": "Confucius"
-  },
-  {
     "date": "2026-07-01",
     "quote": "A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.",
     "author": "Amelia Earhart"
@@ -148,5 +143,10 @@
     "date": "2026-07-29",
     "quote": "Success is a poor teacher.",
     "author": "Robert Kiyosaki"
+  },
+  {
+    "date": "2026-07-30",
+    "quote": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+    "author": "Theodore Roosevelt"
   }
 ]
