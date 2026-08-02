@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "quote": "You can't let your failures define you. You have to let your failures teach you.",
-    "author": "Barack Obama"
-  },
-  {
     "date": "2026-07-04",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-08-01",
     "quote": "Forgive yourself for your faults and your mistakes and move on.",
     "author": "Les Brown"
+  },
+  {
+    "date": "2026-08-02",
+    "quote": "I think self-awareness is probably the most important thing towards being a champion.",
+    "author": "Billie Jean King"
   }
 ]
