@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-06",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-07-07",
     "quote": "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.",
     "author": "George Bernard Shaw"
@@ -148,5 +143,10 @@
     "date": "2026-08-04",
     "quote": "If you spend too much time thinking about a thing, you'll never get it done.",
     "author": "Bruce Lee"
+  },
+  {
+    "date": "2026-08-05",
+    "quote": "It is better to learn late than never.",
+    "author": "Publilius Syrus"
   }
 ]
