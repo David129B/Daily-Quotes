@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "quote": "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-07-08",
     "quote": "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.",
     "author": "Sonia Ricotti"
@@ -148,5 +143,10 @@
     "date": "2026-08-05",
     "quote": "It is better to learn late than never.",
     "author": "Publilius Syrus"
+  },
+  {
+    "date": "2026-08-06",
+    "quote": "Actions are the seeds of fate. Deeds grow into destiny.",
+    "author": "Harry S. Truman"
   }
 ]
