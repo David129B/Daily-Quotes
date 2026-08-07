@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "quote": "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.",
-    "author": "Sonia Ricotti"
-  },
-  {
     "date": "2026-07-09",
     "quote": "Don't want anything. Then you get everything.",
     "author": "Seungsahn"
@@ -148,5 +143,10 @@
     "date": "2026-08-06",
     "quote": "Actions are the seeds of fate. Deeds grow into destiny.",
     "author": "Harry S. Truman"
+  },
+  {
+    "date": "2026-08-07",
+    "quote": "The more one judges, the less one loves.",
+    "author": "Honore de Balzac"
   }
 ]
