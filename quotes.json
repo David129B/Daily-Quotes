@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-10",
-    "quote": "There is no value in anything until it is finished.",
-    "author": "Genghis Khan"
-  },
-  {
     "date": "2026-07-11",
     "quote": "We learn to walk by falling down. If we never fell down, we would never walk.",
     "author": "Robert Kiyosaki"
@@ -148,5 +143,10 @@
     "date": "2026-08-08",
     "quote": "Never argue with stupid people, they will drag you down to their level and then beat you with experience.",
     "author": "Mark Twain"
+  },
+  {
+    "date": "2026-08-09",
+    "quote": "For every minute you are angry you lose sixty seconds of happiness.",
+    "author": "Ralph Waldo Emerson"
   }
 ]
