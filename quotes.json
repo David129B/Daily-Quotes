@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-11",
-    "quote": "We learn to walk by falling down. If we never fell down, we would never walk.",
-    "author": "Robert Kiyosaki"
-  },
-  {
     "date": "2026-07-12",
     "quote": "If your mind is empty, it is always ready for anything, it is open to everything.",
     "author": "Shunryu Suzuki"
@@ -148,5 +143,10 @@
     "date": "2026-08-09",
     "quote": "For every minute you are angry you lose sixty seconds of happiness.",
     "author": "Ralph Waldo Emerson"
+  },
+  {
+    "date": "2026-08-10",
+    "quote": "Greatness comes from living with purpose and passion.",
+    "author": "Ralph Marston"
   }
 ]
