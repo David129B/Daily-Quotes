@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-12",
-    "quote": "If your mind is empty, it is always ready for anything, it is open to everything.",
-    "author": "Shunryu Suzuki"
-  },
-  {
     "date": "2026-07-13",
     "quote": "The friendship that can cease has never been real.",
     "author": "St. Jerome"
@@ -148,5 +143,10 @@
     "date": "2026-08-10",
     "quote": "Greatness comes from living with purpose and passion.",
     "author": "Ralph Marston"
+  },
+  {
+    "date": "2026-08-11",
+    "quote": "No man can get rich himself unless he enriches others.",
+    "author": "Earl Nightingale"
   }
 ]
