@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-13",
-    "quote": "The friendship that can cease has never been real.",
-    "author": "St. Jerome"
-  },
-  {
     "date": "2026-07-14",
     "quote": "Work for something because it is good, not just because it stands a chance to succeed.",
     "author": "Vaclav Havel"
@@ -148,5 +143,10 @@
     "date": "2026-08-11",
     "quote": "No man can get rich himself unless he enriches others.",
     "author": "Earl Nightingale"
+  },
+  {
+    "date": "2026-08-12",
+    "quote": "Be regular and orderly in your life, so that you may be violent and original in your work.",
+    "author": "Gustave Flaubert"
   }
 ]
