@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-14",
-    "quote": "Work for something because it is good, not just because it stands a chance to succeed.",
-    "author": "Vaclav Havel"
-  },
-  {
     "date": "2026-07-15",
     "quote": "I succeeded by saying what everyone else is thinking.",
     "author": "Joan Rivers"
@@ -148,5 +143,10 @@
     "date": "2026-08-12",
     "quote": "Be regular and orderly in your life, so that you may be violent and original in your work.",
     "author": "Gustave Flaubert"
+  },
+  {
+    "date": "2026-08-13",
+    "quote": "The time is now, the place is here. Stay in the present.",
+    "author": "Dan Millman"
   }
 ]
