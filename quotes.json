@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "quote": "I succeeded by saying what everyone else is thinking.",
-    "author": "Joan Rivers"
-  },
-  {
     "date": "2026-07-16",
     "quote": "Greatness comes from living with purpose and passion.",
     "author": "Ralph Marston"
@@ -148,5 +143,10 @@
     "date": "2026-08-13",
     "quote": "The time is now, the place is here. Stay in the present.",
     "author": "Dan Millman"
+  },
+  {
+    "date": "2026-08-14",
+    "quote": "It's better to dance than to march through life.",
+    "author": "Yoko Ono"
   }
 ]
