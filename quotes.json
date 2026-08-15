@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-16",
-    "quote": "Greatness comes from living with purpose and passion.",
-    "author": "Ralph Marston"
-  },
-  {
     "date": "2026-07-17",
     "quote": "The wise pursue wisdom, the dull follow in blind faith.",
     "author": "Tibetan Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-08-14",
     "quote": "It's better to dance than to march through life.",
     "author": "Yoko Ono"
+  },
+  {
+    "date": "2026-08-15",
+    "quote": "If you correct your mind, the rest of your life will fall into place.",
+    "author": "Lao Tzu"
   }
 ]
