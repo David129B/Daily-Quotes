@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "quote": "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
-    "author": "Richard Bach"
-  },
-  {
     "date": "2026-07-19",
     "quote": "Opportunity comes when you continually push forward.",
     "author": "Sonia Ricotti"
@@ -148,5 +143,10 @@
     "date": "2026-08-16",
     "quote": "Excellence is not an exception, it is a prevailing attitude.",
     "author": "Colin Powell"
+  },
+  {
+    "date": "2026-08-17",
+    "quote": "If you can handle rejection, you'll learn to get everything you want.",
+    "author": "Tony Robbins"
   }
 ]
