@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-19",
-    "quote": "Opportunity comes when you continually push forward.",
-    "author": "Sonia Ricotti"
-  },
-  {
     "date": "2026-07-20",
     "quote": "You don't need to be better than anyone else, you just need to be better than you used to be.",
     "author": "Wayne Dyer"
@@ -148,5 +143,10 @@
     "date": "2026-08-17",
     "quote": "If you can handle rejection, you'll learn to get everything you want.",
     "author": "Tony Robbins"
+  },
+  {
+    "date": "2026-08-18",
+    "quote": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
+    "author": "Andrew Carnegie"
   }
 ]
