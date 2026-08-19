@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-20",
-    "quote": "You don't need to be better than anyone else, you just need to be better than you used to be.",
-    "author": "Wayne Dyer"
-  },
-  {
     "date": "2026-07-21",
     "quote": "Educating the mind without educating the heart is no education at all.",
     "author": "Aristotle"
@@ -148,5 +143,10 @@
     "date": "2026-08-18",
     "quote": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
     "author": "Andrew Carnegie"
+  },
+  {
+    "date": "2026-08-19",
+    "quote": "When you have a dream, you've got to grab it and never let go.",
+    "author": "Carol Burnett"
   }
 ]
