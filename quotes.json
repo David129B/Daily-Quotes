@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "quote": "Educating the mind without educating the heart is no education at all.",
-    "author": "Aristotle"
-  },
-  {
     "date": "2026-07-22",
     "quote": "Don't seek, don't search, don't ask, don't knock, don't demand - relax.",
     "author": "Osho"
@@ -148,5 +143,10 @@
     "date": "2026-08-19",
     "quote": "When you have a dream, you've got to grab it and never let go.",
     "author": "Carol Burnett"
+  },
+  {
+    "date": "2026-08-20",
+    "quote": "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+    "author": "Virginia Woolf"
   }
 ]
