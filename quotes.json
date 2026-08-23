@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "quote": "Do not try to be on the side of the majority, but live according to your inner laws.",
-    "author": "Marcus Aurelius"
-  },
-  {
     "date": "2026-07-25",
     "quote": "Every man gotta right to decide his own destiny.",
     "author": "Bob Marley"
@@ -148,5 +143,10 @@
     "date": "2026-08-22",
     "quote": "Nourish the mind like you would your body. The mind cannot survive on junk food.",
     "author": "Brian Tracy"
+  },
+  {
+    "date": "2026-08-23",
+    "quote": "Fear is what stops you. Courage is what keeps you going.",
+    "author": "Unknown"
   }
 ]
