@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "quote": "Every man gotta right to decide his own destiny.",
-    "author": "Bob Marley"
-  },
-  {
     "date": "2026-07-26",
     "quote": "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.",
     "author": "Mark Twain"
@@ -148,5 +143,10 @@
     "date": "2026-08-23",
     "quote": "Fear is what stops you. Courage is what keeps you going.",
     "author": "Unknown"
+  },
+  {
+    "date": "2026-08-24",
+    "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
+    "author": "Lao Tzu"
   }
 ]
