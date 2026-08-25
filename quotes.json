@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "quote": "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.",
-    "author": "Mark Twain"
-  },
-  {
     "date": "2026-07-27",
     "quote": "When you judge another, you do not define them, you define yourself",
     "author": "Wayne Dyer"
@@ -148,5 +143,10 @@
     "date": "2026-08-24",
     "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
     "author": "Lao Tzu"
+  },
+  {
+    "date": "2026-08-25",
+    "quote": "Admire as much as you can. Most people do not admire enough.",
+    "author": "Vincent van Gogh"
   }
 ]
