@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "quote": "When you judge another, you do not define them, you define yourself",
-    "author": "Wayne Dyer"
-  },
-  {
     "date": "2026-07-28",
     "quote": "The best way to not feel hopeless is to get up and do something.",
     "author": "Barack Obama"
@@ -148,5 +143,10 @@
     "date": "2026-08-25",
     "quote": "Admire as much as you can. Most people do not admire enough.",
     "author": "Vincent van Gogh"
+  },
+  {
+    "date": "2026-08-26",
+    "quote": "Know yourself and you will win all battles.",
+    "author": "Sun Tzu"
   }
 ]
