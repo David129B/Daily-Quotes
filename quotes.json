@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "quote": "The best way to not feel hopeless is to get up and do something.",
-    "author": "Barack Obama"
-  },
-  {
     "date": "2026-07-29",
     "quote": "Success is a poor teacher.",
     "author": "Robert Kiyosaki"
@@ -148,5 +143,10 @@
     "date": "2026-08-26",
     "quote": "Know yourself and you will win all battles.",
     "author": "Sun Tzu"
+  },
+  {
+    "date": "2026-08-28",
+    "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt"
   }
 ]
