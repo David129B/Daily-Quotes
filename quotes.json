@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "quote": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
-    "author": "Theodore Roosevelt"
-  },
-  {
     "date": "2026-07-31",
     "quote": "Curiosity is the most powerful thing you own.",
     "author": "James Cameron"
@@ -148,5 +143,10 @@
     "date": "2026-08-29",
     "quote": "Making your mark on the world is hard. If it were easy, everybody would do it.",
     "author": "Barack Obama"
+  },
+  {
+    "date": "2026-08-29",
+    "quote": "We are most nearly ourselves when we achieve the seriousness of the child at play.",
+    "author": "Heraclitus"
   }
 ]
