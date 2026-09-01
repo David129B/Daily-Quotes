@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "quote": "I think self-awareness is probably the most important thing towards being a champion.",
-    "author": "Billie Jean King"
-  },
-  {
     "date": "2026-08-03",
     "quote": "There are two kinds of perfect people: those who are dead, and those who have not been born yet.",
     "author": "Chinese Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-08-31",
     "quote": "Blessings and burdens are not mutually exclusive.",
     "author": "Ryan Holiday"
+  },
+  {
+    "date": "2026-09-01",
+    "quote": "Your home is where your thoughts find peace.",
+    "author": "Zen Proverb"
   }
 ]
