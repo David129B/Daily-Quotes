@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "quote": "If you spend too much time thinking about a thing, you'll never get it done.",
-    "author": "Bruce Lee"
-  },
-  {
     "date": "2026-08-05",
     "quote": "It is better to learn late than never.",
     "author": "Publilius Syrus"
@@ -148,5 +143,10 @@
     "date": "2026-09-02",
     "quote": "Our thoughts are highly influenced by the people around us and everything we read, see, and do.",
     "author": "Jeff Booth"
+  },
+  {
+    "date": "2026-09-03",
+    "quote": "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.",
+    "author": "Denis Waitley"
   }
 ]
