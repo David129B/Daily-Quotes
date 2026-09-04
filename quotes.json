@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "quote": "It is better to learn late than never.",
-    "author": "Publilius Syrus"
-  },
-  {
     "date": "2026-08-06",
     "quote": "Actions are the seeds of fate. Deeds grow into destiny.",
     "author": "Harry S. Truman"
@@ -148,5 +143,10 @@
     "date": "2026-09-03",
     "quote": "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.",
     "author": "Denis Waitley"
+  },
+  {
+    "date": "2026-09-04",
+    "quote": "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.",
+    "author": "Jack Butcher"
   }
 ]
