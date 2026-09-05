@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-06",
-    "quote": "Actions are the seeds of fate. Deeds grow into destiny.",
-    "author": "Harry S. Truman"
-  },
-  {
     "date": "2026-08-07",
     "quote": "The more one judges, the less one loves.",
     "author": "Honore de Balzac"
@@ -148,5 +143,10 @@
     "date": "2026-09-04",
     "quote": "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.",
     "author": "Jack Butcher"
+  },
+  {
+    "date": "2026-09-05",
+    "quote": "Belief creates the actual fact.",
+    "author": "William James"
   }
 ]
