@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "quote": "The more one judges, the less one loves.",
-    "author": "Honore de Balzac"
-  },
-  {
     "date": "2026-08-08",
     "quote": "Never argue with stupid people, they will drag you down to their level and then beat you with experience.",
     "author": "Mark Twain"
@@ -148,5 +143,10 @@
     "date": "2026-09-05",
     "quote": "Belief creates the actual fact.",
     "author": "William James"
+  },
+  {
+    "date": "2026-09-06",
+    "quote": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.",
+    "author": "Zig Ziglar"
   }
 ]
