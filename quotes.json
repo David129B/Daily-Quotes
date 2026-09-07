@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "quote": "Never argue with stupid people, they will drag you down to their level and then beat you with experience.",
-    "author": "Mark Twain"
-  },
-  {
     "date": "2026-08-09",
     "quote": "For every minute you are angry you lose sixty seconds of happiness.",
     "author": "Ralph Waldo Emerson"
@@ -148,5 +143,10 @@
     "date": "2026-09-06",
     "quote": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.",
     "author": "Zig Ziglar"
+  },
+  {
+    "date": "2026-09-07",
+    "quote": "Everything has its beauty, but not everyone sees it.",
+    "author": "Confucius"
   }
 ]
