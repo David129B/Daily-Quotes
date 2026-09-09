@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "quote": "Greatness comes from living with purpose and passion.",
-    "author": "Ralph Marston"
-  },
-  {
     "date": "2026-08-11",
     "quote": "No man can get rich himself unless he enriches others.",
     "author": "Earl Nightingale"
@@ -148,5 +143,10 @@
     "date": "2026-09-08",
     "quote": "If you're not failing every now and again, it's a sign you're not doing anything very innovative.",
     "author": "Woody Allen"
+  },
+  {
+    "date": "2026-09-09",
+    "quote": "To forgive means pardoning the unpardonable.",
+    "author": "Gilbert Chesterton"
   }
 ]
