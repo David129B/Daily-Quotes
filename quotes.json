@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "quote": "Be regular and orderly in your life, so that you may be violent and original in your work.",
-    "author": "Gustave Flaubert"
-  },
-  {
     "date": "2026-08-13",
     "quote": "The time is now, the place is here. Stay in the present.",
     "author": "Dan Millman"
@@ -148,5 +143,10 @@
     "date": "2026-09-10",
     "quote": "It is our experiences that mold us into who we are...during times of adversity our true character will show.",
     "author": "Unknown"
+  },
+  {
+    "date": "2026-09-11",
+    "quote": "Just do what must be done. This may not be happiness but it is greatness.",
+    "author": "George Bernard Shaw"
   }
 ]
