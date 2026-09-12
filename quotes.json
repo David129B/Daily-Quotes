@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "quote": "The time is now, the place is here. Stay in the present.",
-    "author": "Dan Millman"
-  },
-  {
     "date": "2026-08-14",
     "quote": "It's better to dance than to march through life.",
     "author": "Yoko Ono"
@@ -148,5 +143,10 @@
     "date": "2026-09-11",
     "quote": "Just do what must be done. This may not be happiness but it is greatness.",
     "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2026-09-12",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
