@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "quote": "If you correct your mind, the rest of your life will fall into place.",
-    "author": "Lao Tzu"
-  },
-  {
     "date": "2026-08-16",
     "quote": "Excellence is not an exception, it is a prevailing attitude.",
     "author": "Colin Powell"
@@ -148,5 +143,10 @@
     "date": "2026-09-13",
     "quote": "It's not what you've got; it's what you do that makes the difference.",
     "author": "Celestine Chua"
+  },
+  {
+    "date": "2026-09-14",
+    "quote": "Associate with people who are likely to improve you.",
+    "author": "Seneca"
   }
 ]
