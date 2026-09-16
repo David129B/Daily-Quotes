@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "quote": "If you can handle rejection, you'll learn to get everything you want.",
-    "author": "Tony Robbins"
-  },
-  {
     "date": "2026-08-18",
     "quote": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
     "author": "Andrew Carnegie"
@@ -148,5 +143,10 @@
     "date": "2026-09-15",
     "quote": "We're kept from our goal not by obstacles, but by a clear path to a lesser goal.",
     "author": "Bhagavad Gita"
+  },
+  {
+    "date": "2026-09-16",
+    "quote": "The secret of success lies not in doing your own work, but in recognizing the right man to do it.",
+    "author": "Andrew Carnegie"
   }
 ]
