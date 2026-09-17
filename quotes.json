@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "quote": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
-    "author": "Andrew Carnegie"
-  },
-  {
     "date": "2026-08-19",
     "quote": "When you have a dream, you've got to grab it and never let go.",
     "author": "Carol Burnett"
@@ -148,5 +143,10 @@
     "date": "2026-09-16",
     "quote": "The secret of success lies not in doing your own work, but in recognizing the right man to do it.",
     "author": "Andrew Carnegie"
+  },
+  {
+    "date": "2026-09-17",
+    "quote": "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.",
+    "author": "Thich Nhat Hanh"
   }
 ]
