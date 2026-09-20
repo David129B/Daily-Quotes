@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "quote": "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.",
-    "author": "Colin Powell"
-  },
-  {
     "date": "2026-08-22",
     "quote": "Nourish the mind like you would your body. The mind cannot survive on junk food.",
     "author": "Brian Tracy"
@@ -148,5 +143,10 @@
     "date": "2026-09-19",
     "quote": "Everything great that has ever happened to humanity has begun as a single thought in someone's mind.",
     "author": "Yanni"
+  },
+  {
+    "date": "2026-09-20",
+    "quote": "The only man who never makes mistakes is the man who never does anything.",
+    "author": "Theodore Roosevelt"
   }
 ]
