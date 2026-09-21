@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "quote": "Nourish the mind like you would your body. The mind cannot survive on junk food.",
-    "author": "Brian Tracy"
-  },
-  {
     "date": "2026-08-23",
     "quote": "Fear is what stops you. Courage is what keeps you going.",
     "author": "Unknown"
@@ -148,5 +143,10 @@
     "date": "2026-09-20",
     "quote": "The only man who never makes mistakes is the man who never does anything.",
     "author": "Theodore Roosevelt"
+  },
+  {
+    "date": "2026-09-21",
+    "quote": "When you want something in life, you just gotta reach out and grab it.",
+    "author": "Christopher McCandless"
   }
 ]
