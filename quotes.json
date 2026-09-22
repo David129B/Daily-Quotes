@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "quote": "Fear is what stops you. Courage is what keeps you going.",
-    "author": "Unknown"
-  },
-  {
     "date": "2026-08-24",
     "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
     "author": "Lao Tzu"
@@ -148,5 +143,10 @@
     "date": "2026-09-21",
     "quote": "When you want something in life, you just gotta reach out and grab it.",
     "author": "Christopher McCandless"
+  },
+  {
+    "date": "2026-09-22",
+    "quote": "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.",
+    "author": "Anita Krizzan"
   }
 ]
