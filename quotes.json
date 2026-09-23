@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-24",
-    "quote": "We shape clay into a pot, but it is the emptiness inside that holds whatever we want.",
-    "author": "Lao Tzu"
-  },
-  {
     "date": "2026-08-25",
     "quote": "Admire as much as you can. Most people do not admire enough.",
     "author": "Vincent van Gogh"
@@ -148,5 +143,10 @@
     "date": "2026-09-22",
     "quote": "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.",
     "author": "Anita Krizzan"
+  },
+  {
+    "date": "2026-09-23",
+    "quote": "Things turn out best for the people who make the best of the way things turn out.",
+    "author": "John Wooden"
   }
 ]
