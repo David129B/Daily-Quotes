@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "quote": "Admire as much as you can. Most people do not admire enough.",
-    "author": "Vincent van Gogh"
-  },
-  {
     "date": "2026-08-26",
     "quote": "Know yourself and you will win all battles.",
     "author": "Sun Tzu"
@@ -148,5 +143,10 @@
     "date": "2026-09-23",
     "quote": "Things turn out best for the people who make the best of the way things turn out.",
     "author": "John Wooden"
+  },
+  {
+    "date": "2026-09-24",
+    "quote": "To be in harmony with the wholeness of things is not to have anxiety over imperfections.",
+    "author": "Dogen"
   }
 ]
