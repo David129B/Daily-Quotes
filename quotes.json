@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "quote": "Know yourself and you will win all battles.",
-    "author": "Sun Tzu"
-  },
-  {
     "date": "2026-08-28",
     "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
     "author": "Franklin D. Roosevelt"
@@ -148,5 +143,10 @@
     "date": "2026-09-24",
     "quote": "To be in harmony with the wholeness of things is not to have anxiety over imperfections.",
     "author": "Dogen"
+  },
+  {
+    "date": "2026-09-25",
+    "quote": "Life is from the inside out. When you shift on the inside, life shifts on the outside.",
+    "author": "Kamal Ravikant"
   }
 ]
