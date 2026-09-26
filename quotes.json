@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
-    "author": "Franklin D. Roosevelt"
-  },
-  {
     "date": "2026-08-29",
     "quote": "Making your mark on the world is hard. If it were easy, everybody would do it.",
     "author": "Barack Obama"
@@ -148,5 +143,10 @@
     "date": "2026-09-25",
     "quote": "Life is from the inside out. When you shift on the inside, life shifts on the outside.",
     "author": "Kamal Ravikant"
+  },
+  {
+    "date": "2026-09-26",
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
   }
 ]
