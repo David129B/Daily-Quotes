@@ -1,11 +1,6 @@
 [
   {
     "date": "2026-08-29",
-    "quote": "Making your mark on the world is hard. If it were easy, everybody would do it.",
-    "author": "Barack Obama"
-  },
-  {
-    "date": "2026-08-29",
     "quote": "We are most nearly ourselves when we achieve the seriousness of the child at play.",
     "author": "Heraclitus"
   },
@@ -148,5 +143,10 @@
     "date": "2026-09-26",
     "quote": "Creativity is intelligence having fun.",
     "author": "Albert Einstein"
+  },
+  {
+    "date": "2026-09-27",
+    "quote": "The fewer the words, the better the prayer.",
+    "author": "Martin Luther"
   }
 ]
