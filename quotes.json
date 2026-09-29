@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "quote": "Debt is the slavery of the free.",
-    "author": "Publilius Syrus"
-  },
-  {
     "date": "2026-08-31",
     "quote": "Blessings and burdens are not mutually exclusive.",
     "author": "Ryan Holiday"
@@ -148,5 +143,10 @@
     "date": "2026-09-28",
     "quote": "The time is now, the place is here. Stay in the present.",
     "author": "Dan Millman"
+  },
+  {
+    "date": "2026-09-29",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
