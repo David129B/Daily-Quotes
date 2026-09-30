@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "quote": "Blessings and burdens are not mutually exclusive.",
-    "author": "Ryan Holiday"
-  },
-  {
     "date": "2026-09-01",
     "quote": "Your home is where your thoughts find peace.",
     "author": "Zen Proverb"
@@ -148,5 +143,10 @@
     "date": "2026-09-29",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-09-30",
+    "quote": "Dreams are the touchstones of our characters.",
+    "author": "Henry David Thoreau"
   }
 ]
