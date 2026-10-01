@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "quote": "Your home is where your thoughts find peace.",
-    "author": "Zen Proverb"
-  },
-  {
     "date": "2026-09-02",
     "quote": "Our thoughts are highly influenced by the people around us and everything we read, see, and do.",
     "author": "Jeff Booth"
@@ -148,5 +143,10 @@
     "date": "2026-09-30",
     "quote": "Dreams are the touchstones of our characters.",
     "author": "Henry David Thoreau"
+  },
+  {
+    "date": "2026-10-01",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
