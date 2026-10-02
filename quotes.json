@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "quote": "Our thoughts are highly influenced by the people around us and everything we read, see, and do.",
-    "author": "Jeff Booth"
-  },
-  {
     "date": "2026-09-03",
     "quote": "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.",
     "author": "Denis Waitley"
@@ -146,6 +141,11 @@
   },
   {
     "date": "2026-10-01",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-10-02",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
   }
