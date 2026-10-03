@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "quote": "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.",
-    "author": "Denis Waitley"
-  },
-  {
     "date": "2026-09-04",
     "quote": "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.",
     "author": "Jack Butcher"
@@ -148,5 +143,10 @@
     "date": "2026-10-02",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-10-03",
+    "quote": "The most courageous act is still to think for yourself. Aloud.",
+    "author": "Coco Chanel"
   }
 ]
