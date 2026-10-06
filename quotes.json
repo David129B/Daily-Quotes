@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "quote": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.",
-    "author": "Zig Ziglar"
-  },
-  {
     "date": "2026-09-07",
     "quote": "Everything has its beauty, but not everyone sees it.",
     "author": "Confucius"
@@ -148,5 +143,10 @@
     "date": "2026-10-05",
     "quote": "If we will be quiet and ready enough, we shall find compensation in every disappointment.",
     "author": "Henry David Thoreau"
+  },
+  {
+    "date": "2026-10-06",
+    "quote": "The smallest of actions is always better than the noblest of intentions.",
+    "author": "Robin Sharma"
   }
 ]
