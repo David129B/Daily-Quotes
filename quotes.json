@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "quote": "Everything has its beauty, but not everyone sees it.",
-    "author": "Confucius"
-  },
-  {
     "date": "2026-09-08",
     "quote": "If you're not failing every now and again, it's a sign you're not doing anything very innovative.",
     "author": "Woody Allen"
@@ -148,5 +143,10 @@
     "date": "2026-10-06",
     "quote": "The smallest of actions is always better than the noblest of intentions.",
     "author": "Robin Sharma"
+  },
+  {
+    "date": "2026-10-07",
+    "quote": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Rohn"
   }
 ]
