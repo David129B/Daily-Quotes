@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "quote": "To forgive means pardoning the unpardonable.",
-    "author": "Gilbert Chesterton"
-  },
-  {
     "date": "2026-09-10",
     "quote": "It is our experiences that mold us into who we are...during times of adversity our true character will show.",
     "author": "Unknown"
@@ -148,5 +143,10 @@
     "date": "2026-10-08",
     "quote": "The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.",
     "author": "Voltaire"
+  },
+  {
+    "date": "2026-10-09",
+    "quote": "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.",
+    "author": "Steve Jobs"
   }
 ]
