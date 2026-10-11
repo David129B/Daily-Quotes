@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "quote": "Just do what must be done. This may not be happiness but it is greatness.",
-    "author": "George Bernard Shaw"
-  },
-  {
     "date": "2026-09-12",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-10-10",
     "quote": "You cannot always control what goes on outside. But you can always control what goes on inside.",
     "author": "Wayne Dyer"
+  },
+  {
+    "date": "2026-10-11",
+    "quote": "Cleverness is not wisdom.",
+    "author": "Euripides"
   }
 ]
