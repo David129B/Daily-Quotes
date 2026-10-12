@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-09-13",
     "quote": "It's not what you've got; it's what you do that makes the difference.",
     "author": "Celestine Chua"
@@ -148,5 +143,10 @@
     "date": "2026-10-11",
     "quote": "Cleverness is not wisdom.",
     "author": "Euripides"
+  },
+  {
+    "date": "2026-10-12",
+    "quote": "People do not decide their futures, they decide their habits and their habits decide their futures.",
+    "author": "Gary Keller"
   }
 ]
