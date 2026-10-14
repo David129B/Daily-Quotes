@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "quote": "Associate with people who are likely to improve you.",
-    "author": "Seneca"
-  },
-  {
     "date": "2026-09-15",
     "quote": "We're kept from our goal not by obstacles, but by a clear path to a lesser goal.",
     "author": "Bhagavad Gita"
@@ -148,5 +143,10 @@
     "date": "2026-10-13",
     "quote": "Make your stand today. On this spot. On this day.",
     "author": "Ming-Dao Deng"
+  },
+  {
+    "date": "2026-10-14",
+    "quote": "The biggest adventure is what lies ahead.",
+    "author": "J.R.R. Tolkien"
   }
 ]
