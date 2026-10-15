@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "quote": "We're kept from our goal not by obstacles, but by a clear path to a lesser goal.",
-    "author": "Bhagavad Gita"
-  },
-  {
     "date": "2026-09-16",
     "quote": "The secret of success lies not in doing your own work, but in recognizing the right man to do it.",
     "author": "Andrew Carnegie"
@@ -148,5 +143,10 @@
     "date": "2026-10-14",
     "quote": "The biggest adventure is what lies ahead.",
     "author": "J.R.R. Tolkien"
+  },
+  {
+    "date": "2026-10-15",
+    "quote": "Being an intellectual creates a lot of questions and no answers.",
+    "author": "David Brinkley"
   }
 ]
