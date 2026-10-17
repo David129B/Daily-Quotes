@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "quote": "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.",
-    "author": "Thich Nhat Hanh"
-  },
-  {
     "date": "2026-09-18",
     "quote": "Prefer to be defeated in the presence of the wise than to excel among fools.",
     "author": "Dogen"
@@ -148,5 +143,10 @@
     "date": "2026-10-16",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-10-17",
+    "quote": "We cannot change anything unless we accept it.",
+    "author": "Carl Jung"
   }
 ]
