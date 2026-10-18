@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "quote": "Prefer to be defeated in the presence of the wise than to excel among fools.",
-    "author": "Dogen"
-  },
-  {
     "date": "2026-09-19",
     "quote": "Everything great that has ever happened to humanity has begun as a single thought in someone's mind.",
     "author": "Yanni"
@@ -148,5 +143,10 @@
     "date": "2026-10-17",
     "quote": "We cannot change anything unless we accept it.",
     "author": "Carl Jung"
+  },
+  {
+    "date": "2026-10-18",
+    "quote": "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.",
+    "author": "Robert Kiyosaki"
   }
 ]
