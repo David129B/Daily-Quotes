@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "quote": "The only man who never makes mistakes is the man who never does anything.",
-    "author": "Theodore Roosevelt"
-  },
-  {
     "date": "2026-09-21",
     "quote": "When you want something in life, you just gotta reach out and grab it.",
     "author": "Christopher McCandless"
@@ -148,5 +143,10 @@
     "date": "2026-10-19",
     "quote": "If you always do what you've always done, you'll always get what you've always got.",
     "author": "Henry Ford"
+  },
+  {
+    "date": "2026-10-20",
+    "quote": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt"
   }
 ]
