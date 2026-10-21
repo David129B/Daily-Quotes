@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "quote": "When you want something in life, you just gotta reach out and grab it.",
-    "author": "Christopher McCandless"
-  },
-  {
     "date": "2026-09-22",
     "quote": "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.",
     "author": "Anita Krizzan"
@@ -148,5 +143,10 @@
     "date": "2026-10-20",
     "quote": "The only thing we have to fear is fear itself.",
     "author": "Franklin D. Roosevelt"
+  },
+  {
+    "date": "2026-10-21",
+    "quote": "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.",
+    "author": "Epictetus"
   }
 ]
