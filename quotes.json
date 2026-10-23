@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "quote": "Things turn out best for the people who make the best of the way things turn out.",
-    "author": "John Wooden"
-  },
-  {
     "date": "2026-09-24",
     "quote": "To be in harmony with the wholeness of things is not to have anxiety over imperfections.",
     "author": "Dogen"
@@ -148,5 +143,10 @@
     "date": "2026-10-22",
     "quote": "There exists only the present instant; a Now which always and without end is itself new.",
     "author": "Meister Eckhart"
+  },
+  {
+    "date": "2026-10-23",
+    "quote": "It doesn't matter where you are coming from. All that matters is where you are going.",
+    "author": "Brian Tracy"
   }
 ]
