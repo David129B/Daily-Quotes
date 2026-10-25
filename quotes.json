@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "quote": "Life is from the inside out. When you shift on the inside, life shifts on the outside.",
-    "author": "Kamal Ravikant"
-  },
-  {
     "date": "2026-09-26",
     "quote": "Creativity is intelligence having fun.",
     "author": "Albert Einstein"
@@ -148,5 +143,10 @@
     "date": "2026-10-24",
     "quote": "Winning isn't everything, but wanting to win is.",
     "author": "Vince Lombardi"
+  },
+  {
+    "date": "2026-10-25",
+    "quote": "Be where your enemy is not.",
+    "author": "Sun Tzu"
   }
 ]
