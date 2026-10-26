@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "quote": "Creativity is intelligence having fun.",
-    "author": "Albert Einstein"
-  },
-  {
     "date": "2026-09-27",
     "quote": "The fewer the words, the better the prayer.",
     "author": "Martin Luther"
@@ -148,5 +143,10 @@
     "date": "2026-10-25",
     "quote": "Be where your enemy is not.",
     "author": "Sun Tzu"
+  },
+  {
+    "date": "2026-10-26",
+    "quote": "What the caterpillar calls the end of the world, the master calls a butterfly.",
+    "author": "Richard Bach"
   }
 ]
