@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "quote": "The fewer the words, the better the prayer.",
-    "author": "Martin Luther"
-  },
-  {
     "date": "2026-09-28",
     "quote": "The time is now, the place is here. Stay in the present.",
     "author": "Dan Millman"
@@ -148,5 +143,10 @@
     "date": "2026-10-26",
     "quote": "What the caterpillar calls the end of the world, the master calls a butterfly.",
     "author": "Richard Bach"
+  },
+  {
+    "date": "2026-10-27",
+    "quote": "Convinced myself, I seek not to convince.",
+    "author": "Edgar Allan Poe"
   }
 ]
