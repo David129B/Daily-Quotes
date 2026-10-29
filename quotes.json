@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-09-30",
     "quote": "Dreams are the touchstones of our characters.",
     "author": "Henry David Thoreau"
@@ -148,5 +143,10 @@
     "date": "2026-10-28",
     "quote": "Sadness is but a wall between two gardens.",
     "author": "Kahlil Gibran"
+  },
+  {
+    "date": "2026-10-29",
+    "quote": "Concentrated power has always been the enemy of liberty.",
+    "author": "Ronald Reagan"
   }
 ]
