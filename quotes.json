@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-10-02",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-10-30",
     "quote": "There are no second chances in life, except to feel remorse.",
     "author": "Carlos Ruiz Zafon"
+  },
+  {
+    "date": "2026-10-31",
+    "quote": "Nothing is more creative...nor destructive...than a brilliant mind with a purpose.",
+    "author": "Dan Brown"
   }
 ]
