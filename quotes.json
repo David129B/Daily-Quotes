@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-10-03",
     "quote": "The most courageous act is still to think for yourself. Aloud.",
     "author": "Coco Chanel"
@@ -148,5 +143,10 @@
     "date": "2026-10-31",
     "quote": "Nothing is more creative...nor destructive...than a brilliant mind with a purpose.",
     "author": "Dan Brown"
+  },
+  {
+    "date": "2026-11-01",
+    "quote": "When I let go of what I am, I become what I might be.",
+    "author": "Lao Tzu"
   }
 ]
