@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "quote": "The most courageous act is still to think for yourself. Aloud.",
-    "author": "Coco Chanel"
-  },
-  {
     "date": "2026-10-04",
     "quote": "Make each day your masterpiece.",
     "author": "John Wooden"
@@ -148,5 +143,10 @@
     "date": "2026-11-01",
     "quote": "When I let go of what I am, I become what I might be.",
     "author": "Lao Tzu"
+  },
+  {
+    "date": "2026-11-02",
+    "quote": "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.",
+    "author": "Seungsahn"
   }
 ]
