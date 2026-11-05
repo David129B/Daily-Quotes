@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "quote": "The smallest of actions is always better than the noblest of intentions.",
-    "author": "Robin Sharma"
-  },
-  {
     "date": "2026-10-07",
     "quote": "Motivation is what gets you started. Habit is what keeps you going.",
     "author": "Jim Rohn"
@@ -148,5 +143,10 @@
     "date": "2026-11-04",
     "quote": "Nothing can dim the light which shines from within.",
     "author": "Maya Angelou"
+  },
+  {
+    "date": "2026-11-05",
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Colin R. Davis"
   }
 ]
