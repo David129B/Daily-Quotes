@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "quote": "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.",
-    "author": "Steve Jobs"
-  },
-  {
     "date": "2026-10-10",
     "quote": "You cannot always control what goes on outside. But you can always control what goes on inside.",
     "author": "Wayne Dyer"
@@ -148,5 +143,10 @@
     "date": "2026-11-07",
     "quote": "Anything you may hold firmly in your imagination can be yours.",
     "author": "William James"
+  },
+  {
+    "date": "2026-11-08",
+    "quote": "If we will be quiet and ready enough, we shall find compensation in every disappointment.",
+    "author": "Henry David Thoreau"
   }
 ]
