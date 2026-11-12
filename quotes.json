@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "quote": "Make your stand today. On this spot. On this day.",
-    "author": "Ming-Dao Deng"
-  },
-  {
     "date": "2026-10-14",
     "quote": "The biggest adventure is what lies ahead.",
     "author": "J.R.R. Tolkien"
@@ -148,5 +143,10 @@
     "date": "2026-11-11",
     "quote": "Being wrong brings the opportunity for growth.",
     "author": "Mark Manson"
+  },
+  {
+    "date": "2026-11-12",
+    "quote": "The secret of life is to fall seven times and to get up eight times.",
+    "author": "Paulo Coelho"
   }
 ]
