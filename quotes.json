@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "quote": "The biggest adventure is what lies ahead.",
-    "author": "J.R.R. Tolkien"
-  },
-  {
     "date": "2026-10-15",
     "quote": "Being an intellectual creates a lot of questions and no answers.",
     "author": "David Brinkley"
@@ -148,5 +143,10 @@
     "date": "2026-11-12",
     "quote": "The secret of life is to fall seven times and to get up eight times.",
     "author": "Paulo Coelho"
+  },
+  {
+    "date": "2026-11-13",
+    "quote": "Heaven is right where you are standing.",
+    "author": "Morihei Ueshiba"
   }
 ]
