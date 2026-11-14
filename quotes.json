@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "quote": "Being an intellectual creates a lot of questions and no answers.",
-    "author": "David Brinkley"
-  },
-  {
     "date": "2026-10-16",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
@@ -148,5 +143,10 @@
     "date": "2026-11-13",
     "quote": "Heaven is right where you are standing.",
     "author": "Morihei Ueshiba"
+  },
+  {
+    "date": "2026-11-14",
+    "quote": "Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.",
+    "author": "George Eliot"
   }
 ]
