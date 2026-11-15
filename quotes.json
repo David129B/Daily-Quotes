@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
-  },
-  {
     "date": "2026-10-17",
     "quote": "We cannot change anything unless we accept it.",
     "author": "Carl Jung"
@@ -148,5 +143,10 @@
     "date": "2026-11-14",
     "quote": "Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.",
     "author": "George Eliot"
+  },
+  {
+    "date": "2026-11-15",
+    "quote": "There are no shortcuts to any place worth going.",
+    "author": "Beverly Sills"
   }
 ]
