@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "quote": "If you always do what you've always done, you'll always get what you've always got.",
-    "author": "Henry Ford"
-  },
-  {
     "date": "2026-10-20",
     "quote": "The only thing we have to fear is fear itself.",
     "author": "Franklin D. Roosevelt"
@@ -148,5 +143,10 @@
     "date": "2026-11-17",
     "quote": "Argue for your limitations and sure enough, they're yours.",
     "author": "Richard Bach"
+  },
+  {
+    "date": "2026-11-18",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   }
 ]
