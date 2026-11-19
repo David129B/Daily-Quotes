@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "quote": "The only thing we have to fear is fear itself.",
-    "author": "Franklin D. Roosevelt"
-  },
-  {
     "date": "2026-10-21",
     "quote": "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.",
     "author": "Epictetus"
@@ -146,6 +141,11 @@
   },
   {
     "date": "2026-11-18",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-11-19",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
   }
