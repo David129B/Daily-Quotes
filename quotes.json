@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "quote": "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.",
-    "author": "Epictetus"
-  },
-  {
     "date": "2026-10-22",
     "quote": "There exists only the present instant; a Now which always and without end is itself new.",
     "author": "Meister Eckhart"
@@ -146,6 +141,11 @@
   },
   {
     "date": "2026-11-19",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-11-20",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
   }
