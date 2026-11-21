@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "quote": "There exists only the present instant; a Now which always and without end is itself new.",
-    "author": "Meister Eckhart"
-  },
-  {
     "date": "2026-10-23",
     "quote": "It doesn't matter where you are coming from. All that matters is where you are going.",
     "author": "Brian Tracy"
@@ -148,5 +143,10 @@
     "date": "2026-11-20",
     "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison"
+  },
+  {
+    "date": "2026-11-21",
+    "quote": "He who cannot be a good follower cannot be a good leader.",
+    "author": "Aristotle"
   }
 ]
