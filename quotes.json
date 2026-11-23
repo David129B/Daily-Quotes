@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "quote": "Winning isn't everything, but wanting to win is.",
-    "author": "Vince Lombardi"
-  },
-  {
     "date": "2026-10-25",
     "quote": "Be where your enemy is not.",
     "author": "Sun Tzu"
@@ -148,5 +143,10 @@
     "date": "2026-11-22",
     "quote": "Learn from the rejection and turn it into an opportunity!",
     "author": "Mary Engelbreit"
+  },
+  {
+    "date": "2026-11-24",
+    "quote": "Life is the dancer and you are the dance.",
+    "author": "Eckhart Tolle"
   }
 ]
