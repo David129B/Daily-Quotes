@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "quote": "Be where your enemy is not.",
-    "author": "Sun Tzu"
-  },
-  {
     "date": "2026-10-26",
     "quote": "What the caterpillar calls the end of the world, the master calls a butterfly.",
     "author": "Richard Bach"
@@ -148,5 +143,10 @@
     "date": "2026-11-24",
     "quote": "Life is the dancer and you are the dance.",
     "author": "Eckhart Tolle"
+  },
+  {
+    "date": "2026-11-25",
+    "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle"
   }
 ]
