@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "quote": "Convinced myself, I seek not to convince.",
-    "author": "Edgar Allan Poe"
-  },
-  {
     "date": "2026-10-28",
     "quote": "Sadness is but a wall between two gardens.",
     "author": "Kahlil Gibran"
@@ -148,5 +143,10 @@
     "date": "2026-11-26",
     "quote": "The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.",
     "author": "Voltaire"
+  },
+  {
+    "date": "2026-11-26",
+    "quote": "Everyone must choose one of two pains: The pain of discipline or the pain of regret.",
+    "author": "Jim Rohn"
   }
 ]
