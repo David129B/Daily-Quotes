@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "quote": "Sadness is but a wall between two gardens.",
-    "author": "Kahlil Gibran"
-  },
-  {
     "date": "2026-10-29",
     "quote": "Concentrated power has always been the enemy of liberty.",
     "author": "Ronald Reagan"
@@ -148,5 +143,10 @@
     "date": "2026-11-26",
     "quote": "Everyone must choose one of two pains: The pain of discipline or the pain of regret.",
     "author": "Jim Rohn"
+  },
+  {
+    "date": "2026-11-27",
+    "quote": "Words have no power to impress the mind without the exquisite horror of their reality.",
+    "author": "Edgar Allan Poe"
   }
 ]
