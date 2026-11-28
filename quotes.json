@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "quote": "Concentrated power has always been the enemy of liberty.",
-    "author": "Ronald Reagan"
-  },
-  {
     "date": "2026-10-30",
     "quote": "There are no second chances in life, except to feel remorse.",
     "author": "Carlos Ruiz Zafon"
@@ -148,5 +143,10 @@
     "date": "2026-11-27",
     "quote": "Words have no power to impress the mind without the exquisite horror of their reality.",
     "author": "Edgar Allan Poe"
+  },
+  {
+    "date": "2026-11-28",
+    "quote": "I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.",
+    "author": "Steve Maraboli"
   }
 ]
